@@ -16,13 +16,6 @@ Risk_Intelligence_Module/
 │   ├── risk_model.pkl                  # Trained Random Forest model binary
 │   ├── label_encoder.pkl               # Saved Label Encoder state
 │   └── model_metadata.json             # JSON file documenting training details & metrics
-├── outputs/                            # Prediction and explainability exports
-│   ├── risk_prediction.csv             # Single row representing the latest risk prediction
-│   ├── risk_reasons.csv                # Top reasons and importance scores
-│   ├── shap_values.csv                 # Detailed SHAP values for features
-│   └── live_risk_dataset.csv           # Historical log of live risk predictions
-├── logs/                               # Execution logs
-│   └── risk_module.log                 # Standard logging file
 ├── scripts/                            # Core python scripts
 │   ├── generate_mock_data.py           # Developer utility to populate datasets/
 │   ├── preprocessing.py                # Loads, cleans, merges, and normalizes datasets
