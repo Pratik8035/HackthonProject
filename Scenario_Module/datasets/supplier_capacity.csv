@@ -1,0 +1,201 @@
+Scenario ID,Supplier,Country,Available Capacity,Current Capacity,Reliability
+1,Supplier_1,USA,1960.7,2638.7,96.8
+2,Supplier_2,Qatar,904.2,1447.5,75.38
+3,Supplier_3,Iraq,3116.4,3656.9,93.97
+4,Supplier_4,UAE,1952.7,2784.8,78.98
+5,Supplier_5,Iran,1587.2,1999.8,77.39
+6,Supplier_6,USA,3533.4,3970.1,92.89
+7,Supplier_7,Iran,1970.7,2231.2,92.8
+8,Supplier_8,Saudi Arabia,2741.8,3528.9,97.29
+9,Supplier_9,Qatar,4127.9,4505.3,72.25
+10,Supplier_10,Iraq,2882.1,4315.5,94.91
+11,Supplier_11,Saudi Arabia,2672.1,3707.8,83.39
+12,Supplier_12,Iraq,2162.8,2658.1,74.65
+13,Supplier_13,Qatar,3150.3,3694.6,81.16
+14,Supplier_14,Qatar,1945.6,2957.5,70.06
+15,Supplier_15,Kuwait,3395.6,3875.0,78.61
+16,Supplier_16,Kuwait,1920.5,3165.5,74.81
+17,Supplier_17,Kuwait,2932.1,4563.4,88.4
+18,Supplier_18,USA,2602.0,3328.6,87.62
+19,Supplier_19,Iraq,1357.9,1981.4,77.76
+20,Supplier_20,Kuwait,2192.7,2342.7,87.87
+21,Supplier_21,Iraq,2788.1,3227.5,95.27
+22,Supplier_22,Iran,3142.7,3715.9,74.98
+23,Supplier_23,Russia,2374.4,3000.5,86.69
+24,Supplier_24,Iraq,697.1,1088.6,87.56
+25,Supplier_25,Qatar,1107.0,1468.8,98.43
+26,Supplier_26,Qatar,2247.7,3049.1,95.97
+27,Supplier_27,Saudi Arabia,1695.5,1817.3,92.52
+28,Supplier_28,Russia,2150.5,3445.3,83.75
+29,Supplier_29,Qatar,2197.5,3242.7,90.72
+30,Supplier_30,Kuwait,3861.8,4526.3,85.53
+31,Supplier_31,Saudi Arabia,3935.9,4344.5,75.9
+32,Supplier_32,Kuwait,1323.9,1509.5,83.09
+33,Supplier_33,USA,1285.8,1733.8,84.05
+34,Supplier_34,Kuwait,775.1,1053.5,93.3
+35,Supplier_35,Iran,3099.6,4607.1,71.22
+36,Supplier_36,Iraq,2303.3,2917.0,98.07
+37,Supplier_37,Saudi Arabia,1194.8,1266.3,83.06
+38,Supplier_38,Kuwait,2295.3,3053.5,98.92
+39,Supplier_39,Qatar,2447.4,3236.2,72.03
+40,Supplier_40,Iran,2444.4,3916.9,80.72
+41,Supplier_41,UAE,1759.5,2857.0,80.15
+42,Supplier_42,Kuwait,3189.7,4717.2,89.19
+43,Supplier_43,UAE,2411.0,2936.0,72.77
+44,Supplier_44,Iran,881.7,1414.7,92.23
+45,Supplier_45,Qatar,2609.1,3334.9,80.16
+46,Supplier_46,UAE,2408.1,3709.9,89.46
+47,Supplier_47,Qatar,2560.3,3481.9,89.21
+48,Supplier_48,Kuwait,2059.5,2387.9,96.34
+49,Supplier_49,Russia,3032.6,4034.9,92.45
+50,Supplier_50,Qatar,3622.4,4410.3,74.54
+51,Supplier_51,Qatar,2459.8,2895.7,81.2
+52,Supplier_52,Saudi Arabia,2295.9,3354.0,76.23
+53,Supplier_53,UAE,2304.0,2699.4,91.63
+54,Supplier_54,USA,2726.4,3231.7,81.1
+55,Supplier_55,USA,4010.7,4287.3,82.5
+56,Supplier_56,Saudi Arabia,2213.9,3197.4,97.23
+57,Supplier_57,Saudi Arabia,2783.4,3545.5,93.95
+58,Supplier_58,Kuwait,1929.8,2852.5,87.26
+59,Supplier_59,Iraq,1794.8,2058.5,93.83
+60,Supplier_60,Iraq,1894.7,2846.1,72.56
+61,Supplier_61,UAE,2477.6,3795.8,76.3
+62,Supplier_62,Kuwait,1747.2,2856.0,95.5
+63,Supplier_63,Qatar,1619.4,1973.6,94.89
+64,Supplier_64,Saudi Arabia,3780.6,4135.1,95.76
+65,Supplier_65,Qatar,1732.2,2301.2,89.34
+66,Supplier_66,Iran,946.4,1377.3,86.72
+67,Supplier_67,Iran,1128.6,1269.0,96.19
+68,Supplier_68,Russia,4177.2,4734.3,94.88
+69,Supplier_69,Russia,3991.9,4990.5,78.82
+70,Supplier_70,Russia,1381.3,2272.4,80.45
+71,Supplier_71,Russia,2500.8,4135.0,72.33
+72,Supplier_72,Kuwait,1360.6,2248.8,92.17
+73,Supplier_73,Iran,2474.9,3495.0,73.85
+74,Supplier_74,USA,2428.7,3046.5,88.11
+75,Supplier_75,USA,3284.0,4457.7,72.01
+76,Supplier_76,Russia,2682.0,3553.3,90.51
+77,Supplier_77,UAE,2043.8,2556.9,95.18
+78,Supplier_78,USA,1811.0,2516.5,85.3
+79,Supplier_79,Russia,1394.3,1846.5,84.33
+80,Supplier_80,USA,3778.8,4444.2,87.2
+81,Supplier_81,Russia,1081.7,1213.4,80.51
+82,Supplier_82,Iran,4140.9,4454.6,74.85
+83,Supplier_83,Saudi Arabia,2477.7,3001.4,98.25
+84,Supplier_84,Kuwait,837.5,1279.2,88.44
+85,Supplier_85,Iraq,2281.1,3397.2,71.23
+86,Supplier_86,Saudi Arabia,2964.0,3318.9,74.92
+87,Supplier_87,Iran,655.4,1076.6,74.97
+88,Supplier_88,Iran,2479.4,2814.3,97.87
+89,Supplier_89,Iran,2935.4,3143.7,95.57
+90,Supplier_90,Saudi Arabia,2326.4,3338.0,96.72
+91,Supplier_91,Iran,2110.4,3332.8,87.23
+92,Supplier_92,Qatar,2850.9,3810.6,72.45
+93,Supplier_93,UAE,2351.9,3427.4,90.03
+94,Supplier_94,Iran,3055.3,3387.1,95.7
+95,Supplier_95,Qatar,1572.3,1786.6,95.65
+96,Supplier_96,Russia,916.3,1500.9,96.02
+97,Supplier_97,Iraq,2850.5,3490.5,97.28
+98,Supplier_98,Kuwait,2943.7,4103.6,71.94
+99,Supplier_99,Saudi Arabia,4089.0,4901.4,95.86
+100,Supplier_100,Kuwait,1634.7,2224.2,72.06
+101,Supplier_101,USA,1412.3,1843.2,71.6
+102,Supplier_102,Iran,3141.3,4769.5,74.27
+103,Supplier_103,Kuwait,3219.7,4892.3,73.32
+104,Supplier_104,Iraq,910.0,1034.8,79.46
+105,Supplier_105,Kuwait,1334.3,2197.5,93.97
+106,Supplier_106,UAE,2058.3,2462.4,71.81
+107,Supplier_107,Kuwait,1684.3,1842.0,92.53
+108,Supplier_108,Iran,854.4,1305.9,72.4
+109,Supplier_109,Iraq,2489.6,2938.2,87.9
+110,Supplier_110,Iran,1304.4,1623.9,84.66
+111,Supplier_111,Russia,947.5,1576.3,75.05
+112,Supplier_112,Saudi Arabia,3425.1,4501.6,78.89
+113,Supplier_113,USA,2997.0,4289.5,80.55
+114,Supplier_114,Saudi Arabia,1412.1,1762.9,89.35
+115,Supplier_115,Iraq,2751.4,4108.2,71.3
+116,Supplier_116,Qatar,1424.6,1505.4,95.8
+117,Supplier_117,Russia,1946.4,2485.9,83.66
+118,Supplier_118,UAE,2787.4,3624.2,94.31
+119,Supplier_119,Russia,2151.9,2445.6,73.57
+120,Supplier_120,Russia,3289.0,3794.1,73.65
+121,Supplier_121,Saudi Arabia,1582.6,1785.7,84.79
+122,Supplier_122,UAE,3043.0,3945.0,88.7
+123,Supplier_123,Iraq,1777.9,1919.3,91.51
+124,Supplier_124,Iraq,1693.7,2117.7,75.37
+125,Supplier_125,UAE,1632.0,2114.6,81.79
+126,Supplier_126,Iran,4264.5,4612.8,98.13
+127,Supplier_127,Saudi Arabia,2874.3,3285.0,77.33
+128,Supplier_128,Iran,2998.2,4755.6,86.15
+129,Supplier_129,Iraq,3146.0,4380.5,98.67
+130,Supplier_130,Iraq,744.7,1100.9,95.35
+131,Supplier_131,Kuwait,1725.0,1998.7,88.08
+132,Supplier_132,Saudi Arabia,2787.4,3401.1,91.76
+133,Supplier_133,Saudi Arabia,1276.9,1608.2,75.79
+134,Supplier_134,Iran,2006.6,2175.8,71.16
+135,Supplier_135,Iran,2000.3,2165.8,92.79
+136,Supplier_136,Qatar,2564.2,3359.8,92.06
+137,Supplier_137,USA,1401.4,1618.0,84.87
+138,Supplier_138,Qatar,3317.6,3816.3,81.54
+139,Supplier_139,Qatar,3603.5,4310.2,92.12
+140,Supplier_140,Saudi Arabia,920.3,1181.8,87.84
+141,Supplier_141,USA,4042.4,4642.4,73.58
+142,Supplier_142,Kuwait,2779.4,3505.3,82.71
+143,Supplier_143,Saudi Arabia,3827.8,4356.7,91.86
+144,Supplier_144,Iran,1149.5,1862.0,91.01
+145,Supplier_145,Saudi Arabia,963.6,1446.4,96.75
+146,Supplier_146,Russia,3330.5,3782.5,81.37
+147,Supplier_147,Russia,3314.7,4003.1,76.11
+148,Supplier_148,Qatar,2574.3,3225.8,96.95
+149,Supplier_149,USA,1813.4,2549.3,91.73
+150,Supplier_150,Iran,2373.9,2724.4,76.8
+151,Supplier_151,Saudi Arabia,1705.0,2380.3,78.52
+152,Supplier_152,Iraq,807.9,1166.0,87.73
+153,Supplier_153,Kuwait,2612.7,3714.0,87.97
+154,Supplier_154,UAE,2918.2,3398.5,78.05
+155,Supplier_155,USA,1615.0,2126.5,89.67
+156,Supplier_156,UAE,2594.6,3172.1,98.71
+157,Supplier_157,Russia,1460.4,2247.5,79.08
+158,Supplier_158,USA,3167.5,4398.1,94.2
+159,Supplier_159,Iran,4403.6,4741.9,83.13
+160,Supplier_160,Russia,1134.4,1794.0,74.72
+161,Supplier_161,Iran,2432.5,3380.9,83.01
+162,Supplier_162,Russia,3193.4,4652.9,83.66
+163,Supplier_163,USA,3015.3,3647.7,77.92
+164,Supplier_164,Iran,1514.1,1708.8,91.95
+165,Supplier_165,Iraq,931.3,1222.4,95.08
+166,Supplier_166,Iraq,1480.1,1997.8,95.65
+167,Supplier_167,Iraq,3222.6,4582.3,78.67
+168,Supplier_168,Kuwait,952.2,1428.2,75.35
+169,Supplier_169,Saudi Arabia,2136.6,2368.4,93.85
+170,Supplier_170,Qatar,1331.0,1693.4,78.35
+171,Supplier_171,USA,1925.3,2971.3,91.28
+172,Supplier_172,Iran,2261.4,3529.0,85.85
+173,Supplier_173,Iran,3117.4,4609.7,70.44
+174,Supplier_174,Qatar,2951.0,3325.7,86.43
+175,Supplier_175,Russia,2698.6,3628.1,86.26
+176,Supplier_176,Iran,4242.5,4770.6,93.23
+177,Supplier_177,Qatar,888.2,1417.8,80.48
+178,Supplier_178,Kuwait,924.0,1368.7,71.95
+179,Supplier_179,Saudi Arabia,2855.2,3379.4,87.89
+180,Supplier_180,UAE,2833.3,4453.9,75.0
+181,Supplier_181,Iraq,2605.9,3271.9,77.14
+182,Supplier_182,Kuwait,1861.4,2694.2,98.12
+183,Supplier_183,Iraq,1772.6,2724.9,73.36
+184,Supplier_184,Saudi Arabia,843.1,1109.0,76.57
+185,Supplier_185,Saudi Arabia,2240.3,3455.9,89.97
+186,Supplier_186,Iraq,4073.3,4591.0,83.84
+187,Supplier_187,Iran,1575.1,2403.3,71.5
+188,Supplier_188,Qatar,2033.3,3229.2,83.53
+189,Supplier_189,Kuwait,2336.9,2928.5,75.3
+190,Supplier_190,Iraq,1384.3,1558.4,81.15
+191,Supplier_191,Qatar,1904.7,2836.5,70.49
+192,Supplier_192,USA,3119.7,3716.8,85.42
+193,Supplier_193,Qatar,801.8,1130.6,77.24
+194,Supplier_194,USA,3399.3,3616.6,86.3
+195,Supplier_195,Qatar,2617.9,3859.0,76.94
+196,Supplier_196,Iraq,2831.1,3049.2,89.19
+197,Supplier_197,Russia,890.2,1307.2,89.76
+198,Supplier_198,UAE,4213.9,4760.7,87.74
+199,Supplier_199,Russia,2336.2,2493.8,82.88
+200,Supplier_200,Kuwait,3346.2,4000.1,89.09

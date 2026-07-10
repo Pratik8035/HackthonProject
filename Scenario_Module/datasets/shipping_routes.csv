@@ -1,0 +1,201 @@
+Scenario ID,Origin,Destination,Route Name,Route Status,Distance,Transit Time,Alternative Route,Extra Transit Time
+1,Global Port,US Gulf Coast,Global Routes,Restricted,11596.0,13.0,Alternative Coastal Route,8.0
+2,Global Port,Singapore,Malacca Strait,Open,3929.0,33.0,None,0.0
+3,Global Port,US Gulf Coast,North Sea Route,Open,3013.0,44.0,None,0.0
+4,Global Port,US Gulf Coast,Arabian Sea Route,Open,9321.0,30.0,None,0.0
+5,Middle East Port,US Gulf Coast,Jebel Ali Route,Open,4023.0,30.0,None,0.0
+6,Global Port,US Gulf Coast,North Sea Route,Open,7891.0,29.0,None,0.0
+7,Global Port,US Gulf Coast,Suez Canal,Restricted,4563.0,38.0,Cape of Good Hope,7.0
+8,Global Port,US Gulf Coast,Global Routes,Restricted,6431.0,13.0,Alternative Coastal Route,12.0
+9,Middle East Port,US Gulf Coast,Persian Gulf,Closed,2161.0,39.0,Cape of Good Hope,6.0
+10,Middle East Port,US Gulf Coast,Bab-el-Mandeb,Restricted,5390.0,28.0,Alternative Coastal Route,10.0
+11,Global Port,US Gulf Coast,Global Routes,Restricted,2663.0,21.0,Alternative Coastal Route,14.0
+12,Global Port,US Gulf Coast,Arabian Sea Route,Open,7093.0,40.0,None,0.0
+13,Global Port,US Gulf Coast,Arabian Sea Route,Open,2867.0,28.0,None,0.0
+14,Middle East Port,US Gulf Coast,Jebel Ali Route,Open,10623.0,39.0,None,0.0
+15,Global Port,US Gulf Coast,Suez Canal,Restricted,8256.0,42.0,Cape of Good Hope,6.0
+16,Global Port,Singapore,Malacca Strait,Open,2830.0,37.0,None,0.0
+17,Middle East Port,US Gulf Coast,Jebel Ali Route,Open,11518.0,20.0,None,0.0
+18,Middle East Port,US Gulf Coast,Jebel Ali Route,Open,3019.0,42.0,None,0.0
+19,Middle East Port,US Gulf Coast,Bab-el-Mandeb,Restricted,3283.0,29.0,Alternative Coastal Route,15.0
+20,Global Port,US Gulf Coast,Indian Ocean Route,Restricted,10590.0,15.0,Alternative Coastal Route,16.0
+21,Global Port,US Gulf Coast,Suez Canal,Restricted,10266.0,18.0,Cape of Good Hope,14.0
+22,Global Port,Rotterdam,North Sea Route,Restricted,5471.0,14.0,Alternative Coastal Route,13.0
+23,Middle East Port,US Gulf Coast,Jebel Ali Route,Open,10691.0,19.0,None,0.0
+24,Global Port,US Gulf Coast,Pipeline Networks,Restricted,4097.0,12.0,Alternative Coastal Route,17.0
+25,Global Port,US Gulf Coast,Global Routes,Restricted,8397.0,15.0,Alternative Coastal Route,5.0
+26,Global Port,US Gulf Coast,Indian Ocean Route,Restricted,10186.0,28.0,Alternative Coastal Route,14.0
+27,Global Port,Rotterdam,North Sea Route,Restricted,10738.0,35.0,Alternative Coastal Route,7.0
+28,Global Port,US Gulf Coast,Pipeline Networks,Restricted,9999.0,29.0,Alternative Coastal Route,5.0
+29,Global Port,US Gulf Coast,Suez Canal,Restricted,10895.0,14.0,Cape of Good Hope,8.0
+30,Middle East Port,US Gulf Coast,Strait of Hormuz,Closed,11817.0,13.0,Cape of Good Hope,11.0
+31,Global Port,US Gulf Coast,Pipeline Networks,Restricted,9462.0,44.0,Alternative Coastal Route,5.0
+32,Middle East Port,US Gulf Coast,Persian Gulf,Closed,4839.0,15.0,Cape of Good Hope,13.0
+33,Global Port,US Gulf Coast,Indian Ocean Route,Restricted,2685.0,40.0,Alternative Coastal Route,8.0
+34,Global Port,US Gulf Coast,North Sea Route,Open,8868.0,39.0,None,0.0
+35,Global Port,US Gulf Coast,Pipeline Networks,Restricted,3431.0,39.0,Alternative Coastal Route,10.0
+36,Global Port,US Gulf Coast,Transatlantic Route,Restricted,11435.0,16.0,Alternative Coastal Route,7.0
+37,Middle East Port,US Gulf Coast,Strait of Hormuz,Closed,3974.0,37.0,Cape of Good Hope,12.0
+38,Global Port,US Gulf Coast,Arabian Sea Route,Open,2905.0,25.0,None,0.0
+39,Global Port,US Gulf Coast,Arabian Sea Route,Open,4014.0,34.0,None,0.0
+40,Middle East Port,US Gulf Coast,Persian Gulf,Closed,2204.0,15.0,Cape of Good Hope,16.0
+41,Global Port,US Gulf Coast,Pipeline Networks,Restricted,11032.0,29.0,Alternative Coastal Route,6.0
+42,Global Port,US Gulf Coast,Pipeline Networks,Restricted,4297.0,30.0,Alternative Coastal Route,8.0
+43,Global Port,US Gulf Coast,Global Routes,Restricted,2689.0,42.0,Alternative Coastal Route,15.0
+44,Global Port,US Gulf Coast,Global Routes,Restricted,11614.0,27.0,Alternative Coastal Route,12.0
+45,Global Port,US Gulf Coast,Global Routes,Restricted,3171.0,33.0,Alternative Coastal Route,11.0
+46,Middle East Port,US Gulf Coast,Bab-el-Mandeb,Restricted,3449.0,35.0,Alternative Coastal Route,16.0
+47,Global Port,US Gulf Coast,Pipeline Networks,Restricted,5959.0,23.0,Alternative Coastal Route,13.0
+48,Global Port,US Gulf Coast,Global Routes,Restricted,6260.0,30.0,Alternative Coastal Route,6.0
+49,Global Port,Singapore,Malacca Strait,Open,5670.0,35.0,None,0.0
+50,Global Port,US Gulf Coast,Transatlantic Route,Restricted,10100.0,33.0,Alternative Coastal Route,5.0
+51,Middle East Port,US Gulf Coast,Bab-el-Mandeb,Restricted,3938.0,34.0,Alternative Coastal Route,9.0
+52,Global Port,US Gulf Coast,Suez Canal,Restricted,8588.0,42.0,Cape of Good Hope,6.0
+53,Middle East Port,US Gulf Coast,Bab-el-Mandeb,Restricted,9875.0,16.0,Alternative Coastal Route,10.0
+54,Global Port,US Gulf Coast,Global Routes,Restricted,5062.0,42.0,Alternative Coastal Route,5.0
+55,Global Port,US Gulf Coast,Suez Canal,Restricted,11879.0,43.0,Cape of Good Hope,16.0
+56,Global Port,US Gulf Coast,Transatlantic Route,Restricted,9097.0,31.0,Alternative Coastal Route,5.0
+57,Global Port,US Gulf Coast,Global Routes,Restricted,6624.0,43.0,Alternative Coastal Route,10.0
+58,Global Port,Rotterdam,North Sea Route,Restricted,3517.0,15.0,Alternative Coastal Route,6.0
+59,Global Port,Singapore,Malacca Strait,Open,5648.0,19.0,None,0.0
+60,Global Port,US Gulf Coast,Transatlantic Route,Restricted,3537.0,31.0,Alternative Coastal Route,13.0
+61,Global Port,US Gulf Coast,Pipeline Networks,Restricted,5137.0,19.0,Alternative Coastal Route,6.0
+62,Global Port,US Gulf Coast,Global Routes,Restricted,5750.0,31.0,Alternative Coastal Route,16.0
+63,Global Port,Rotterdam,North Sea Route,Restricted,10535.0,19.0,Alternative Coastal Route,7.0
+64,Middle East Port,US Gulf Coast,Persian Gulf,Closed,3727.0,41.0,Cape of Good Hope,11.0
+65,Global Port,US Gulf Coast,Transatlantic Route,Restricted,4324.0,29.0,Alternative Coastal Route,14.0
+66,Middle East Port,US Gulf Coast,Persian Gulf,Closed,11283.0,31.0,Cape of Good Hope,12.0
+67,Global Port,US Gulf Coast,Suez Canal,Restricted,3749.0,37.0,Cape of Good Hope,15.0
+68,Global Port,Rotterdam,North Sea Route,Restricted,9548.0,37.0,Alternative Coastal Route,14.0
+69,Global Port,Singapore,Malacca Strait,Open,6976.0,11.0,None,0.0
+70,Global Port,US Gulf Coast,Pipeline Networks,Restricted,7879.0,12.0,Alternative Coastal Route,12.0
+71,Global Port,US Gulf Coast,Pipeline Networks,Restricted,11259.0,42.0,Alternative Coastal Route,14.0
+72,Global Port,US Gulf Coast,Global Routes,Restricted,11203.0,44.0,Alternative Coastal Route,10.0
+73,Global Port,US Gulf Coast,Pipeline Networks,Restricted,8744.0,28.0,Alternative Coastal Route,9.0
+74,Global Port,US Gulf Coast,North Sea Route,Open,4551.0,21.0,None,0.0
+75,Middle East Port,US Gulf Coast,Jebel Ali Route,Open,2007.0,33.0,None,0.0
+76,Middle East Port,US Gulf Coast,Bab-el-Mandeb,Restricted,4555.0,37.0,Alternative Coastal Route,13.0
+77,Global Port,US Gulf Coast,Global Routes,Restricted,10676.0,30.0,Alternative Coastal Route,12.0
+78,Middle East Port,US Gulf Coast,Strait of Hormuz,Closed,8710.0,18.0,Cape of Good Hope,12.0
+79,Global Port,Singapore,Malacca Strait,Open,8971.0,29.0,None,0.0
+80,Global Port,Rotterdam,North Sea Route,Restricted,5525.0,21.0,Alternative Coastal Route,6.0
+81,Middle East Port,US Gulf Coast,Jebel Ali Route,Open,4822.0,25.0,None,0.0
+82,Global Port,Singapore,Malacca Strait,Open,8530.0,12.0,None,0.0
+83,Global Port,Rotterdam,North Sea Route,Restricted,2282.0,42.0,Alternative Coastal Route,16.0
+84,Global Port,US Gulf Coast,Global Routes,Restricted,5200.0,17.0,Alternative Coastal Route,9.0
+85,Global Port,US Gulf Coast,Indian Ocean Route,Restricted,2687.0,13.0,Alternative Coastal Route,10.0
+86,Global Port,US Gulf Coast,Indian Ocean Route,Restricted,8509.0,28.0,Alternative Coastal Route,13.0
+87,Middle East Port,US Gulf Coast,Persian Gulf,Closed,9183.0,10.0,Cape of Good Hope,17.0
+88,Global Port,Singapore,Malacca Strait,Open,7108.0,30.0,None,0.0
+89,Global Port,US Gulf Coast,Indian Ocean Route,Restricted,2669.0,22.0,Alternative Coastal Route,6.0
+90,Global Port,US Gulf Coast,North Sea Route,Open,3283.0,37.0,None,0.0
+91,Global Port,Rotterdam,North Sea Route,Restricted,3125.0,40.0,Alternative Coastal Route,15.0
+92,Middle East Port,US Gulf Coast,Persian Gulf,Closed,10438.0,36.0,Cape of Good Hope,9.0
+93,Global Port,US Gulf Coast,Pipeline Networks,Restricted,11752.0,12.0,Alternative Coastal Route,5.0
+94,Global Port,Rotterdam,North Sea Route,Restricted,5864.0,29.0,Alternative Coastal Route,6.0
+95,Middle East Port,US Gulf Coast,Persian Gulf,Closed,9833.0,14.0,Cape of Good Hope,7.0
+96,Global Port,US Gulf Coast,Global Routes,Restricted,2264.0,15.0,Alternative Coastal Route,7.0
+97,Global Port,Singapore,Malacca Strait,Open,9544.0,20.0,None,0.0
+98,Global Port,US Gulf Coast,Global Routes,Restricted,7569.0,18.0,Alternative Coastal Route,9.0
+99,Middle East Port,US Gulf Coast,Jebel Ali Route,Open,11346.0,21.0,None,0.0
+100,Global Port,US Gulf Coast,Global Routes,Restricted,11177.0,30.0,Alternative Coastal Route,16.0
+101,Global Port,US Gulf Coast,Global Routes,Restricted,5831.0,35.0,Alternative Coastal Route,5.0
+102,Global Port,US Gulf Coast,Pipeline Networks,Restricted,11172.0,44.0,Alternative Coastal Route,8.0
+103,Global Port,US Gulf Coast,Transatlantic Route,Restricted,8450.0,27.0,Alternative Coastal Route,14.0
+104,Global Port,US Gulf Coast,Global Routes,Restricted,3098.0,32.0,Alternative Coastal Route,10.0
+105,Middle East Port,US Gulf Coast,Jebel Ali Route,Open,8416.0,14.0,None,0.0
+106,Global Port,US Gulf Coast,Suez Canal,Restricted,8763.0,20.0,Cape of Good Hope,15.0
+107,Global Port,US Gulf Coast,North Sea Route,Open,11122.0,42.0,None,0.0
+108,Global Port,Rotterdam,North Sea Route,Restricted,10915.0,25.0,Alternative Coastal Route,6.0
+109,Global Port,US Gulf Coast,Suez Canal,Restricted,3089.0,44.0,Cape of Good Hope,12.0
+110,Middle East Port,US Gulf Coast,Jebel Ali Route,Open,2155.0,15.0,None,0.0
+111,Middle East Port,US Gulf Coast,Persian Gulf,Closed,8344.0,29.0,Cape of Good Hope,16.0
+112,Global Port,US Gulf Coast,Transatlantic Route,Restricted,8144.0,17.0,Alternative Coastal Route,11.0
+113,Global Port,US Gulf Coast,Pipeline Networks,Restricted,11046.0,12.0,Alternative Coastal Route,8.0
+114,Global Port,US Gulf Coast,Pipeline Networks,Restricted,2441.0,34.0,Alternative Coastal Route,10.0
+115,Global Port,US Gulf Coast,Pipeline Networks,Restricted,9358.0,30.0,Alternative Coastal Route,7.0
+116,Global Port,US Gulf Coast,North Sea Route,Open,11528.0,23.0,None,0.0
+117,Global Port,US Gulf Coast,Transatlantic Route,Restricted,8115.0,21.0,Alternative Coastal Route,5.0
+118,Global Port,US Gulf Coast,North Sea Route,Open,6646.0,18.0,None,0.0
+119,Global Port,US Gulf Coast,North Sea Route,Open,3787.0,22.0,None,0.0
+120,Middle East Port,US Gulf Coast,Strait of Hormuz,Closed,9374.0,27.0,Cape of Good Hope,7.0
+121,Global Port,US Gulf Coast,Transatlantic Route,Restricted,6741.0,36.0,Alternative Coastal Route,11.0
+122,Global Port,US Gulf Coast,Global Routes,Restricted,11658.0,36.0,Alternative Coastal Route,6.0
+123,Global Port,US Gulf Coast,Transatlantic Route,Restricted,8701.0,23.0,Alternative Coastal Route,8.0
+124,Middle East Port,US Gulf Coast,Jebel Ali Route,Open,6596.0,17.0,None,0.0
+125,Middle East Port,US Gulf Coast,Strait of Hormuz,Closed,7661.0,23.0,Cape of Good Hope,15.0
+126,Global Port,US Gulf Coast,Pipeline Networks,Restricted,10787.0,34.0,Alternative Coastal Route,12.0
+127,Middle East Port,US Gulf Coast,Jebel Ali Route,Open,8999.0,23.0,None,0.0
+128,Middle East Port,US Gulf Coast,Jebel Ali Route,Open,6249.0,32.0,None,0.0
+129,Global Port,US Gulf Coast,Arabian Sea Route,Open,6757.0,28.0,None,0.0
+130,Middle East Port,US Gulf Coast,Bab-el-Mandeb,Restricted,9789.0,12.0,Alternative Coastal Route,14.0
+131,Middle East Port,US Gulf Coast,Strait of Hormuz,Closed,7394.0,18.0,Cape of Good Hope,16.0
+132,Middle East Port,US Gulf Coast,Jebel Ali Route,Open,7075.0,16.0,None,0.0
+133,Middle East Port,US Gulf Coast,Bab-el-Mandeb,Restricted,9230.0,18.0,Alternative Coastal Route,15.0
+134,Middle East Port,US Gulf Coast,Bab-el-Mandeb,Restricted,3531.0,28.0,Alternative Coastal Route,8.0
+135,Middle East Port,US Gulf Coast,Strait of Hormuz,Closed,6493.0,26.0,Cape of Good Hope,13.0
+136,Global Port,US Gulf Coast,Arabian Sea Route,Open,8816.0,34.0,None,0.0
+137,Global Port,US Gulf Coast,Suez Canal,Restricted,3762.0,23.0,Cape of Good Hope,13.0
+138,Middle East Port,US Gulf Coast,Persian Gulf,Closed,7827.0,13.0,Cape of Good Hope,16.0
+139,Global Port,US Gulf Coast,Global Routes,Restricted,9804.0,31.0,Alternative Coastal Route,13.0
+140,Middle East Port,US Gulf Coast,Persian Gulf,Closed,5198.0,25.0,Cape of Good Hope,17.0
+141,Global Port,US Gulf Coast,Transatlantic Route,Restricted,11277.0,39.0,Alternative Coastal Route,16.0
+142,Global Port,US Gulf Coast,Pipeline Networks,Restricted,7154.0,20.0,Alternative Coastal Route,6.0
+143,Global Port,US Gulf Coast,Global Routes,Restricted,3492.0,30.0,Alternative Coastal Route,9.0
+144,Global Port,US Gulf Coast,Transatlantic Route,Restricted,11491.0,12.0,Alternative Coastal Route,16.0
+145,Middle East Port,US Gulf Coast,Jebel Ali Route,Open,9156.0,18.0,None,0.0
+146,Global Port,US Gulf Coast,Pipeline Networks,Restricted,5516.0,18.0,Alternative Coastal Route,8.0
+147,Global Port,Rotterdam,North Sea Route,Restricted,11250.0,26.0,Alternative Coastal Route,6.0
+148,Middle East Port,US Gulf Coast,Strait of Hormuz,Closed,2727.0,41.0,Cape of Good Hope,5.0
+149,Global Port,US Gulf Coast,Global Routes,Restricted,9468.0,32.0,Alternative Coastal Route,12.0
+150,Global Port,US Gulf Coast,Global Routes,Restricted,8581.0,21.0,Alternative Coastal Route,13.0
+151,Global Port,US Gulf Coast,Global Routes,Restricted,8748.0,31.0,Alternative Coastal Route,12.0
+152,Middle East Port,US Gulf Coast,Jebel Ali Route,Open,9986.0,29.0,None,0.0
+153,Global Port,US Gulf Coast,Suez Canal,Restricted,5740.0,13.0,Cape of Good Hope,11.0
+154,Middle East Port,US Gulf Coast,Bab-el-Mandeb,Restricted,3478.0,37.0,Alternative Coastal Route,16.0
+155,Global Port,US Gulf Coast,Pipeline Networks,Restricted,2771.0,31.0,Alternative Coastal Route,16.0
+156,Middle East Port,US Gulf Coast,Jebel Ali Route,Open,10770.0,31.0,None,0.0
+157,Global Port,US Gulf Coast,Indian Ocean Route,Restricted,2193.0,33.0,Alternative Coastal Route,6.0
+158,Global Port,US Gulf Coast,Arabian Sea Route,Open,4394.0,10.0,None,0.0
+159,Middle East Port,US Gulf Coast,Bab-el-Mandeb,Restricted,11302.0,15.0,Alternative Coastal Route,10.0
+160,Middle East Port,US Gulf Coast,Strait of Hormuz,Closed,5736.0,27.0,Cape of Good Hope,5.0
+161,Middle East Port,US Gulf Coast,Bab-el-Mandeb,Restricted,8716.0,21.0,Alternative Coastal Route,10.0
+162,Global Port,US Gulf Coast,Suez Canal,Restricted,10921.0,36.0,Cape of Good Hope,12.0
+163,Global Port,US Gulf Coast,Global Routes,Restricted,5451.0,10.0,Alternative Coastal Route,13.0
+164,Middle East Port,US Gulf Coast,Bab-el-Mandeb,Restricted,11836.0,44.0,Alternative Coastal Route,12.0
+165,Middle East Port,US Gulf Coast,Strait of Hormuz,Closed,10333.0,44.0,Cape of Good Hope,17.0
+166,Global Port,US Gulf Coast,Suez Canal,Restricted,7808.0,22.0,Cape of Good Hope,17.0
+167,Middle East Port,US Gulf Coast,Persian Gulf,Closed,7093.0,17.0,Cape of Good Hope,15.0
+168,Global Port,US Gulf Coast,Global Routes,Restricted,6987.0,42.0,Alternative Coastal Route,14.0
+169,Global Port,US Gulf Coast,Global Routes,Restricted,2340.0,18.0,Alternative Coastal Route,12.0
+170,Global Port,US Gulf Coast,Global Routes,Restricted,6912.0,26.0,Alternative Coastal Route,12.0
+171,Global Port,US Gulf Coast,Arabian Sea Route,Open,4866.0,22.0,None,0.0
+172,Global Port,US Gulf Coast,Transatlantic Route,Restricted,7823.0,20.0,Alternative Coastal Route,7.0
+173,Middle East Port,US Gulf Coast,Persian Gulf,Closed,7002.0,22.0,Cape of Good Hope,17.0
+174,Middle East Port,US Gulf Coast,Persian Gulf,Closed,10210.0,21.0,Cape of Good Hope,12.0
+175,Global Port,US Gulf Coast,Pipeline Networks,Restricted,8132.0,21.0,Alternative Coastal Route,17.0
+176,Global Port,US Gulf Coast,North Sea Route,Open,5311.0,42.0,None,0.0
+177,Middle East Port,US Gulf Coast,Bab-el-Mandeb,Restricted,8246.0,37.0,Alternative Coastal Route,14.0
+178,Global Port,US Gulf Coast,Global Routes,Restricted,6615.0,34.0,Alternative Coastal Route,15.0
+179,Middle East Port,US Gulf Coast,Strait of Hormuz,Closed,10365.0,32.0,Cape of Good Hope,17.0
+180,Global Port,Singapore,Malacca Strait,Open,8574.0,32.0,None,0.0
+181,Global Port,US Gulf Coast,North Sea Route,Open,5760.0,29.0,None,0.0
+182,Global Port,Singapore,Malacca Strait,Open,8993.0,27.0,None,0.0
+183,Global Port,US Gulf Coast,Global Routes,Restricted,6033.0,13.0,Alternative Coastal Route,5.0
+184,Global Port,US Gulf Coast,Suez Canal,Restricted,10611.0,27.0,Cape of Good Hope,9.0
+185,Global Port,US Gulf Coast,Global Routes,Restricted,3774.0,37.0,Alternative Coastal Route,12.0
+186,Global Port,US Gulf Coast,Global Routes,Restricted,5808.0,21.0,Alternative Coastal Route,14.0
+187,Global Port,US Gulf Coast,North Sea Route,Open,9922.0,24.0,None,0.0
+188,Global Port,US Gulf Coast,Arabian Sea Route,Open,7889.0,38.0,None,0.0
+189,Global Port,US Gulf Coast,North Sea Route,Open,6200.0,19.0,None,0.0
+190,Global Port,Singapore,Malacca Strait,Open,4497.0,20.0,None,0.0
+191,Global Port,US Gulf Coast,North Sea Route,Open,11101.0,27.0,None,0.0
+192,Global Port,US Gulf Coast,Global Routes,Restricted,6658.0,18.0,Alternative Coastal Route,13.0
+193,Global Port,US Gulf Coast,Arabian Sea Route,Open,9718.0,37.0,None,0.0
+194,Middle East Port,US Gulf Coast,Bab-el-Mandeb,Restricted,2770.0,29.0,Alternative Coastal Route,10.0
+195,Global Port,US Gulf Coast,Indian Ocean Route,Restricted,3628.0,12.0,Alternative Coastal Route,12.0
+196,Global Port,US Gulf Coast,Pipeline Networks,Restricted,8401.0,26.0,Alternative Coastal Route,13.0
+197,Global Port,Rotterdam,North Sea Route,Restricted,4466.0,10.0,Alternative Coastal Route,11.0
+198,Middle East Port,US Gulf Coast,Persian Gulf,Closed,9980.0,24.0,Cape of Good Hope,14.0
+199,Global Port,US Gulf Coast,North Sea Route,Open,7476.0,30.0,None,0.0
+200,Global Port,US Gulf Coast,Global Routes,Restricted,6669.0,40.0,Alternative Coastal Route,13.0
