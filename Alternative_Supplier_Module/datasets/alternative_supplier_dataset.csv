@@ -1,0 +1,251 @@
+supplier_id,supplier_name,country,crude_type,price_per_barrel,capacity,reliability,lead_time,availability,supplier_rank
+ALT_001,Brazil Energy Ltd 4,Brazil,Dubai,110.69,34108.75,94.56,18,High,3
+ALT_002,India Energy Ltd 49,India,Oman,84.26,119710.85,70.72,29,Medium,4
+ALT_003,UAE Energy Ltd 41,UAE,Brent,78.2,152462.45,87.72,59,Medium,4
+ALT_004,Nigeria Energy Ltd 21,Nigeria,Brent,110.82,170961.79,63.72,32,Low,3
+ALT_005,UAE Energy Ltd 35,UAE,Oman,65.25,91632.19,68.45,20,Medium,3
+ALT_006,Qatar Energy Ltd 36,Qatar,WTI,89.63,102214.2,73.72,46,High,1
+ALT_007,UAE Energy Ltd 41,UAE,Oman,51.14,186592.25,66.3,32,High,4
+ALT_008,India Energy Ltd 45,India,WTI,111.75,67354.45,94.89,59,Medium,1
+ALT_009,Qatar Energy Ltd 17,Qatar,Brent,76.03,181722.05,66.6,28,Low,3
+ALT_010,India Energy Ltd 28,India,Brent,99.26,10206.4,79.02,11,Low,2
+ALT_011,Norway Energy Ltd 44,Norway,Oman,50.65,142163.45,92.6,58,Medium,2
+ALT_012,Nigeria Energy Ltd 5,Nigeria,WTI,76.81,148845.04,64.09,23,Medium,3
+ALT_013,Saudi Arabia Energy Ltd 25,Saudi Arabia,WTI,94.91,138656.04,62.73,39,High,5
+ALT_014,Saudi Arabia Energy Ltd 29,Saudi Arabia,Dubai,100.57,129335.21,66.04,29,Low,4
+ALT_015,India Energy Ltd 6,India,Brent,59.8,33399.87,89.13,25,Medium,3
+ALT_016,Saudi Arabia Energy Ltd 16,Saudi Arabia,Dubai,95.12,57151.74,83.98,49,Low,3
+ALT_017,Russia Energy Ltd 43,Russia,Dubai,64.38,125316.11,67.53,28,Medium,1
+ALT_018,India Energy Ltd 32,India,Oman,57.89,104920.68,83.7,36,High,3
+ALT_019,Qatar Energy Ltd 9,Qatar,Oman,110.26,117992.27,74.58,46,High,4
+ALT_020,UAE Energy Ltd 2,UAE,Brent,50.97,50991.16,96.81,53,Medium,5
+ALT_021,USA Energy Ltd 41,USA,Oman,79.65,86432.71,85.56,37,Low,2
+ALT_022,USA Energy Ltd 6,USA,Dubai,55.53,184975.72,98.88,12,Low,3
+ALT_023,Brazil Energy Ltd 38,Brazil,Brent,71.71,93122.35,98.04,18,High,2
+ALT_024,UAE Energy Ltd 28,UAE,Brent,81.74,125678.16,72.34,50,Low,2
+ALT_025,UAE Energy Ltd 1,UAE,WTI,99.1,41128.2,98.03,36,Low,3
+ALT_026,Saudi Arabia Energy Ltd 24,Saudi Arabia,WTI,102.48,175957.41,89.24,10,High,3
+ALT_027,Brazil Energy Ltd 18,Brazil,Brent,68.41,195259.61,85.04,34,Medium,5
+ALT_028,Qatar Energy Ltd 4,Qatar,Oman,110.16,41707.46,66.28,52,High,5
+ALT_029,UAE Energy Ltd 15,UAE,Brent,53.08,173956.41,69.76,33,Medium,4
+ALT_030,Saudi Arabia Energy Ltd 12,Saudi Arabia,Brent,88.7,183650.06,89.55,29,High,3
+ALT_031,India Energy Ltd 27,India,Dubai,68.99,24798.54,74.88,35,Low,1
+ALT_032,Saudi Arabia Energy Ltd 15,Saudi Arabia,Brent,116.79,23096.02,78.56,21,Medium,3
+ALT_033,UAE Energy Ltd 36,UAE,Oman,50.56,48127.52,82.5,22,Low,5
+ALT_034,India Energy Ltd 30,India,Dubai,91.42,103738.53,90.83,15,Low,5
+ALT_035,India Energy Ltd 10,India,Brent,115.27,14542.95,81.61,43,Low,1
+ALT_036,Qatar Energy Ltd 1,Qatar,Oman,109.43,148170.86,64.15,36,High,4
+ALT_037,Nigeria Energy Ltd 4,Nigeria,WTI,99.82,27675.06,96.76,60,Low,4
+ALT_038,Qatar Energy Ltd 30,Qatar,Brent,90.65,106031.28,85.42,28,High,5
+ALT_039,Canada Energy Ltd 4,Canada,Oman,96.37,34834.57,71.64,57,Medium,4
+ALT_040,Qatar Energy Ltd 21,Qatar,Oman,69.04,24190.61,68.09,52,Low,1
+ALT_041,Saudi Arabia Energy Ltd 7,Saudi Arabia,WTI,81.47,69666.32,64.82,25,High,4
+ALT_042,USA Energy Ltd 30,USA,Dubai,109.67,27179.97,92.22,22,Low,5
+ALT_043,Russia Energy Ltd 14,Russia,Dubai,60.38,145119.91,98.64,28,Low,1
+ALT_044,USA Energy Ltd 17,USA,WTI,52.18,86834.52,78.04,50,Low,2
+ALT_045,UAE Energy Ltd 30,UAE,Brent,106.27,36560.68,60.48,56,High,2
+ALT_046,India Energy Ltd 26,India,Dubai,98.04,188139.23,63.35,40,Medium,1
+ALT_047,Russia Energy Ltd 5,Russia,WTI,113.17,94251.95,65.14,60,Medium,1
+ALT_048,Russia Energy Ltd 30,Russia,Brent,61.76,119038.0,92.79,28,Medium,1
+ALT_049,Brazil Energy Ltd 44,Brazil,Oman,62.1,50796.06,67.47,20,Medium,2
+ALT_050,Russia Energy Ltd 40,Russia,WTI,95.31,104789.41,95.22,33,High,1
+ALT_051,USA Energy Ltd 25,USA,WTI,79.35,132103.98,91.81,18,Low,5
+ALT_052,Russia Energy Ltd 25,Russia,Dubai,83.58,158472.67,73.73,39,Low,3
+ALT_053,Brazil Energy Ltd 18,Brazil,WTI,51.82,123452.11,61.17,54,Medium,1
+ALT_054,Nigeria Energy Ltd 34,Nigeria,Dubai,103.68,199925.09,98.86,9,High,2
+ALT_055,USA Energy Ltd 35,USA,Brent,103.48,190082.47,82.97,54,Medium,3
+ALT_056,Saudi Arabia Energy Ltd 12,Saudi Arabia,WTI,91.48,163179.94,87.84,40,High,3
+ALT_057,Canada Energy Ltd 37,Canada,WTI,89.42,45764.4,99.42,59,Medium,5
+ALT_058,USA Energy Ltd 12,USA,Oman,52.66,20671.92,84.01,4,Low,4
+ALT_059,Russia Energy Ltd 22,Russia,WTI,106.45,74744.22,67.08,54,Medium,1
+ALT_060,Russia Energy Ltd 10,Russia,WTI,104.21,170831.37,94.34,7,Medium,4
+ALT_061,Canada Energy Ltd 7,Canada,Dubai,71.12,35925.82,66.28,30,Low,4
+ALT_062,Qatar Energy Ltd 12,Qatar,Dubai,65.63,121900.53,67.0,22,Low,3
+ALT_063,Saudi Arabia Energy Ltd 12,Saudi Arabia,Brent,116.42,190252.65,75.62,52,Low,1
+ALT_064,Saudi Arabia Energy Ltd 39,Saudi Arabia,Dubai,114.47,193831.02,68.81,39,High,4
+ALT_065,Saudi Arabia Energy Ltd 22,Saudi Arabia,Brent,66.66,196652.13,66.7,59,High,3
+ALT_066,Nigeria Energy Ltd 1,Nigeria,Dubai,64.68,141703.45,73.98,53,High,1
+ALT_067,Russia Energy Ltd 25,Russia,Oman,101.28,194129.35,95.29,34,Medium,3
+ALT_068,Norway Energy Ltd 25,Norway,Brent,108.02,159858.7,83.06,51,Low,2
+ALT_069,Saudi Arabia Energy Ltd 29,Saudi Arabia,Brent,105.94,16348.43,60.8,19,High,1
+ALT_070,Qatar Energy Ltd 11,Qatar,Oman,61.26,24250.46,97.58,8,Medium,5
+ALT_071,Canada Energy Ltd 31,Canada,Brent,80.19,134190.68,84.23,30,High,1
+ALT_072,UAE Energy Ltd 22,UAE,WTI,118.21,87763.17,82.11,49,Low,3
+ALT_073,USA Energy Ltd 20,USA,WTI,56.71,84651.42,81.93,34,High,1
+ALT_074,Qatar Energy Ltd 1,Qatar,Oman,56.13,166540.49,84.94,33,High,1
+ALT_075,Russia Energy Ltd 14,Russia,WTI,94.67,195640.96,78.9,10,Medium,4
+ALT_076,Nigeria Energy Ltd 32,Nigeria,Dubai,56.38,113383.95,67.38,59,Medium,3
+ALT_077,Saudi Arabia Energy Ltd 29,Saudi Arabia,Brent,68.43,98361.01,69.03,20,Low,1
+ALT_078,Saudi Arabia Energy Ltd 49,Saudi Arabia,Brent,56.0,75320.36,81.6,51,Low,2
+ALT_079,Norway Energy Ltd 4,Norway,Oman,107.29,89540.09,81.37,58,Medium,5
+ALT_080,India Energy Ltd 31,India,Dubai,55.53,181527.67,88.5,35,Low,5
+ALT_081,Canada Energy Ltd 44,Canada,WTI,58.42,153865.86,66.9,13,High,2
+ALT_082,Saudi Arabia Energy Ltd 3,Saudi Arabia,Oman,55.49,139793.84,68.06,55,Low,2
+ALT_083,Canada Energy Ltd 17,Canada,Dubai,113.76,183693.05,62.67,27,Low,4
+ALT_084,Norway Energy Ltd 21,Norway,Dubai,86.38,184260.76,60.49,47,Low,5
+ALT_085,Norway Energy Ltd 27,Norway,Brent,79.01,38157.95,83.46,51,High,1
+ALT_086,Canada Energy Ltd 50,Canada,Brent,105.0,174820.3,95.12,59,Medium,3
+ALT_087,Brazil Energy Ltd 42,Brazil,Oman,90.04,99878.86,66.87,28,High,5
+ALT_088,Canada Energy Ltd 44,Canada,Oman,52.71,179019.1,73.23,18,High,4
+ALT_089,USA Energy Ltd 24,USA,Brent,73.65,160793.89,72.41,56,Medium,1
+ALT_090,India Energy Ltd 9,India,Dubai,118.2,94191.02,92.95,20,Low,4
+ALT_091,Canada Energy Ltd 42,Canada,Brent,63.16,50164.2,92.88,50,Medium,5
+ALT_092,Qatar Energy Ltd 4,Qatar,WTI,54.59,144818.19,76.1,52,Low,5
+ALT_093,Russia Energy Ltd 12,Russia,WTI,111.26,48138.09,62.3,5,Medium,1
+ALT_094,Qatar Energy Ltd 46,Qatar,WTI,69.18,166466.2,80.15,43,High,1
+ALT_095,India Energy Ltd 24,India,Oman,91.58,43740.9,94.73,40,Low,3
+ALT_096,Qatar Energy Ltd 11,Qatar,Dubai,102.43,140881.6,71.37,27,High,2
+ALT_097,Canada Energy Ltd 50,Canada,WTI,110.0,133002.18,87.04,20,Low,4
+ALT_098,Norway Energy Ltd 2,Norway,Brent,83.19,35139.68,66.91,54,High,2
+ALT_099,USA Energy Ltd 39,USA,Dubai,99.89,144779.96,70.99,60,Medium,3
+ALT_100,Nigeria Energy Ltd 17,Nigeria,WTI,82.67,138667.27,92.89,28,Low,1
+ALT_101,Russia Energy Ltd 33,Russia,Dubai,89.3,122816.78,71.28,46,High,4
+ALT_102,UAE Energy Ltd 22,UAE,Dubai,94.84,173683.4,70.42,48,Low,3
+ALT_103,India Energy Ltd 10,India,WTI,112.98,163031.67,92.01,41,Medium,3
+ALT_104,Saudi Arabia Energy Ltd 47,Saudi Arabia,Brent,95.88,199519.13,70.35,29,Medium,4
+ALT_105,Russia Energy Ltd 38,Russia,WTI,74.02,145540.16,87.38,43,Medium,3
+ALT_106,Norway Energy Ltd 20,Norway,WTI,108.84,176534.01,67.23,9,Medium,2
+ALT_107,USA Energy Ltd 47,USA,WTI,116.28,180922.32,86.11,17,Medium,2
+ALT_108,USA Energy Ltd 27,USA,Dubai,76.02,121258.43,78.5,10,Medium,1
+ALT_109,Canada Energy Ltd 38,Canada,Brent,83.06,46963.32,64.78,46,Medium,5
+ALT_110,USA Energy Ltd 27,USA,Brent,110.96,38647.91,99.59,24,Medium,5
+ALT_111,Nigeria Energy Ltd 10,Nigeria,Dubai,110.37,44267.79,63.22,24,Low,2
+ALT_112,Qatar Energy Ltd 41,Qatar,Brent,50.33,61970.29,90.37,13,Low,2
+ALT_113,Nigeria Energy Ltd 49,Nigeria,Brent,59.06,92405.17,77.13,30,Medium,4
+ALT_114,Russia Energy Ltd 3,Russia,WTI,101.15,190513.04,95.59,51,Low,2
+ALT_115,Russia Energy Ltd 44,Russia,Brent,93.87,57276.39,87.67,25,Medium,2
+ALT_116,UAE Energy Ltd 25,UAE,Dubai,61.69,166530.33,71.9,21,Medium,5
+ALT_117,Canada Energy Ltd 34,Canada,Dubai,80.36,140488.23,65.34,60,Medium,3
+ALT_118,India Energy Ltd 11,India,Oman,51.34,52621.06,99.3,16,Low,1
+ALT_119,Canada Energy Ltd 33,Canada,WTI,58.62,145110.92,91.61,27,Low,3
+ALT_120,Norway Energy Ltd 40,Norway,Brent,91.57,19112.47,64.31,56,High,1
+ALT_121,UAE Energy Ltd 27,UAE,Oman,76.62,113983.65,78.93,12,High,1
+ALT_122,USA Energy Ltd 27,USA,Brent,96.37,61295.66,84.16,11,Medium,1
+ALT_123,Norway Energy Ltd 47,Norway,Brent,69.79,159104.41,79.86,41,High,3
+ALT_124,Norway Energy Ltd 13,Norway,Dubai,99.24,66116.73,61.57,34,High,4
+ALT_125,Qatar Energy Ltd 16,Qatar,Brent,50.89,26910.54,64.41,39,Low,4
+ALT_126,Saudi Arabia Energy Ltd 6,Saudi Arabia,Brent,100.65,29245.19,70.21,17,Medium,3
+ALT_127,USA Energy Ltd 30,USA,Brent,56.99,43193.34,61.57,21,Medium,3
+ALT_128,Brazil Energy Ltd 48,Brazil,Brent,56.65,154058.76,61.83,57,High,2
+ALT_129,Qatar Energy Ltd 23,Qatar,Oman,116.86,60978.79,89.25,26,Medium,2
+ALT_130,UAE Energy Ltd 26,UAE,Oman,117.36,61648.29,75.39,57,Medium,4
+ALT_131,Saudi Arabia Energy Ltd 8,Saudi Arabia,WTI,98.73,21142.82,97.6,13,High,4
+ALT_132,Canada Energy Ltd 31,Canada,Oman,62.69,82152.65,74.31,4,Low,2
+ALT_133,Nigeria Energy Ltd 32,Nigeria,Brent,112.13,93730.7,62.53,44,Medium,1
+ALT_134,Norway Energy Ltd 50,Norway,WTI,118.45,137270.43,73.5,36,Low,5
+ALT_135,UAE Energy Ltd 28,UAE,WTI,83.74,136105.02,85.59,12,Low,5
+ALT_136,Russia Energy Ltd 1,Russia,WTI,85.39,99164.9,79.78,13,High,4
+ALT_137,Qatar Energy Ltd 16,Qatar,Dubai,117.91,19566.64,68.89,44,Medium,4
+ALT_138,India Energy Ltd 6,India,Oman,81.09,118876.64,63.51,34,Medium,3
+ALT_139,UAE Energy Ltd 32,UAE,Brent,57.19,88344.32,82.23,3,High,5
+ALT_140,Canada Energy Ltd 41,Canada,Dubai,112.31,116843.19,86.12,32,Medium,3
+ALT_141,Russia Energy Ltd 15,Russia,Oman,73.24,155809.12,83.94,48,Low,3
+ALT_142,Nigeria Energy Ltd 8,Nigeria,Brent,103.15,52131.95,73.62,56,Low,3
+ALT_143,Norway Energy Ltd 34,Norway,Dubai,99.15,18697.84,66.55,11,Low,4
+ALT_144,UAE Energy Ltd 17,UAE,WTI,63.13,186741.09,75.68,32,High,3
+ALT_145,UAE Energy Ltd 49,UAE,Oman,53.26,130315.69,86.82,10,Medium,4
+ALT_146,Canada Energy Ltd 33,Canada,WTI,117.47,10824.15,89.37,38,Medium,5
+ALT_147,Nigeria Energy Ltd 33,Nigeria,WTI,98.43,42993.55,92.53,9,Medium,5
+ALT_148,Canada Energy Ltd 21,Canada,Oman,79.31,125708.8,87.63,18,Medium,4
+ALT_149,Qatar Energy Ltd 19,Qatar,Oman,106.34,36254.2,84.04,59,Low,5
+ALT_150,USA Energy Ltd 45,USA,Dubai,99.83,187747.29,85.24,15,High,5
+ALT_151,USA Energy Ltd 44,USA,Dubai,114.48,35207.63,88.34,14,Low,5
+ALT_152,Qatar Energy Ltd 46,Qatar,Brent,103.25,116833.24,83.25,45,Low,4
+ALT_153,Norway Energy Ltd 19,Norway,Oman,106.58,109318.7,61.01,12,High,1
+ALT_154,India Energy Ltd 18,India,WTI,118.85,139844.16,65.84,6,Low,3
+ALT_155,India Energy Ltd 49,India,Brent,75.11,95992.96,84.58,46,Low,5
+ALT_156,India Energy Ltd 48,India,Oman,66.63,159018.36,91.87,21,Low,1
+ALT_157,Brazil Energy Ltd 25,Brazil,Oman,116.97,195406.32,72.47,38,High,1
+ALT_158,USA Energy Ltd 13,USA,Oman,108.1,183182.41,88.11,44,Medium,5
+ALT_159,Norway Energy Ltd 48,Norway,WTI,104.33,193215.07,71.74,14,Low,1
+ALT_160,Saudi Arabia Energy Ltd 12,Saudi Arabia,Brent,76.4,91416.48,82.21,11,High,5
+ALT_161,USA Energy Ltd 1,USA,Dubai,82.64,188123.95,61.59,23,Low,1
+ALT_162,Canada Energy Ltd 43,Canada,Dubai,84.34,118808.63,74.29,53,Low,3
+ALT_163,Norway Energy Ltd 15,Norway,WTI,86.44,159389.07,66.36,37,Low,4
+ALT_164,UAE Energy Ltd 23,UAE,WTI,111.84,136033.55,73.21,21,High,5
+ALT_165,Norway Energy Ltd 31,Norway,Brent,58.03,75741.39,69.59,44,Low,5
+ALT_166,India Energy Ltd 3,India,Dubai,76.7,161279.25,64.52,19,Low,3
+ALT_167,Russia Energy Ltd 34,Russia,Dubai,86.0,106659.76,79.42,21,Low,2
+ALT_168,Qatar Energy Ltd 33,Qatar,Brent,116.37,41805.01,98.16,37,Low,1
+ALT_169,UAE Energy Ltd 14,UAE,WTI,110.55,90599.8,64.15,37,Low,4
+ALT_170,UAE Energy Ltd 48,UAE,WTI,51.66,146204.97,61.51,7,High,2
+ALT_171,USA Energy Ltd 36,USA,Brent,90.25,53252.67,70.32,27,Medium,4
+ALT_172,Brazil Energy Ltd 21,Brazil,Brent,77.27,32478.09,60.24,49,Low,1
+ALT_173,Canada Energy Ltd 3,Canada,Brent,75.04,105539.02,71.56,46,Medium,5
+ALT_174,UAE Energy Ltd 19,UAE,Oman,76.7,166203.25,61.23,13,Low,2
+ALT_175,Saudi Arabia Energy Ltd 48,Saudi Arabia,Oman,105.77,171398.81,71.77,43,High,3
+ALT_176,Qatar Energy Ltd 1,Qatar,WTI,58.63,10955.67,83.81,37,Low,1
+ALT_177,USA Energy Ltd 14,USA,Dubai,64.82,182069.33,93.97,12,High,2
+ALT_178,India Energy Ltd 40,India,Dubai,63.6,44458.02,91.91,57,High,5
+ALT_179,Nigeria Energy Ltd 42,Nigeria,Brent,70.35,22798.92,63.92,49,Low,4
+ALT_180,Qatar Energy Ltd 23,Qatar,WTI,96.99,54561.24,71.38,7,High,3
+ALT_181,Nigeria Energy Ltd 29,Nigeria,Dubai,93.14,68078.34,83.31,39,Low,3
+ALT_182,Qatar Energy Ltd 28,Qatar,WTI,50.34,56773.28,68.84,50,Low,4
+ALT_183,USA Energy Ltd 24,USA,WTI,97.57,72996.96,79.15,31,Medium,3
+ALT_184,Nigeria Energy Ltd 36,Nigeria,Brent,62.3,125259.26,93.59,57,High,5
+ALT_185,India Energy Ltd 17,India,Brent,100.92,179499.99,93.9,43,High,5
+ALT_186,Canada Energy Ltd 26,Canada,WTI,113.44,114802.86,81.68,37,Medium,2
+ALT_187,Qatar Energy Ltd 26,Qatar,WTI,112.4,122024.14,94.2,11,Medium,5
+ALT_188,Norway Energy Ltd 6,Norway,Oman,75.47,12012.42,69.53,54,Low,2
+ALT_189,Norway Energy Ltd 9,Norway,Oman,61.15,117607.88,82.58,58,High,4
+ALT_190,Qatar Energy Ltd 3,Qatar,WTI,103.3,54032.48,70.55,17,High,2
+ALT_191,Norway Energy Ltd 24,Norway,Oman,82.88,96382.26,61.85,44,Medium,1
+ALT_192,Norway Energy Ltd 41,Norway,Dubai,108.44,60030.05,81.72,14,Medium,4
+ALT_193,Qatar Energy Ltd 38,Qatar,Brent,86.17,81502.47,96.2,36,Medium,3
+ALT_194,Qatar Energy Ltd 32,Qatar,Oman,112.1,11253.56,95.19,31,High,2
+ALT_195,UAE Energy Ltd 33,UAE,Dubai,64.81,45512.08,74.45,48,High,2
+ALT_196,Brazil Energy Ltd 22,Brazil,Brent,83.71,100974.78,68.41,13,Low,4
+ALT_197,Russia Energy Ltd 16,Russia,Brent,58.95,122546.06,65.38,35,High,5
+ALT_198,Saudi Arabia Energy Ltd 4,Saudi Arabia,WTI,68.08,44207.13,98.23,41,Low,1
+ALT_199,USA Energy Ltd 6,USA,WTI,81.44,198627.41,94.61,13,High,4
+ALT_200,Canada Energy Ltd 10,Canada,WTI,93.62,107052.93,66.69,46,Medium,4
+ALT_201,Canada Energy Ltd 38,Canada,Brent,66.09,83237.76,64.33,15,Low,5
+ALT_202,Brazil Energy Ltd 10,Brazil,Brent,62.42,181305.56,83.93,59,Low,5
+ALT_203,UAE Energy Ltd 6,UAE,Oman,96.16,181377.1,81.52,3,Low,4
+ALT_204,Norway Energy Ltd 27,Norway,Dubai,111.24,142552.13,77.12,54,Medium,4
+ALT_205,Qatar Energy Ltd 38,Qatar,Brent,79.78,58358.43,90.56,57,High,3
+ALT_206,Canada Energy Ltd 35,Canada,Oman,68.05,11039.2,89.67,3,Low,5
+ALT_207,UAE Energy Ltd 34,UAE,Brent,76.25,49029.55,92.09,29,Medium,1
+ALT_208,Saudi Arabia Energy Ltd 28,Saudi Arabia,Dubai,68.29,111859.93,82.53,42,Medium,4
+ALT_209,India Energy Ltd 27,India,Oman,62.51,116227.83,79.3,22,Low,3
+ALT_210,Brazil Energy Ltd 48,Brazil,WTI,109.85,135263.74,89.84,31,Low,2
+ALT_211,UAE Energy Ltd 14,UAE,Oman,105.03,162162.21,84.5,46,Low,1
+ALT_212,Saudi Arabia Energy Ltd 25,Saudi Arabia,Brent,106.31,166418.54,78.82,41,Medium,1
+ALT_213,UAE Energy Ltd 17,UAE,WTI,75.96,125715.48,88.91,28,Low,5
+ALT_214,USA Energy Ltd 46,USA,Brent,116.2,165843.46,85.55,31,High,2
+ALT_215,Norway Energy Ltd 19,Norway,WTI,52.35,123907.83,80.58,17,Low,2
+ALT_216,Russia Energy Ltd 24,Russia,WTI,95.85,195372.72,63.47,20,Medium,3
+ALT_217,Brazil Energy Ltd 26,Brazil,WTI,86.24,150015.85,62.74,8,Low,3
+ALT_218,Norway Energy Ltd 38,Norway,Dubai,74.32,164947.83,69.03,15,Medium,4
+ALT_219,Canada Energy Ltd 1,Canada,Dubai,62.25,106185.24,82.29,35,Medium,3
+ALT_220,UAE Energy Ltd 33,UAE,Dubai,111.33,164498.0,82.94,47,Medium,4
+ALT_221,Canada Energy Ltd 31,Canada,WTI,103.02,192635.36,78.31,32,Low,1
+ALT_222,Nigeria Energy Ltd 8,Nigeria,Dubai,54.73,130395.74,99.67,46,Low,2
+ALT_223,Qatar Energy Ltd 27,Qatar,Dubai,86.16,11847.41,93.2,18,Medium,1
+ALT_224,Brazil Energy Ltd 44,Brazil,Dubai,55.32,186965.29,79.01,25,High,5
+ALT_225,USA Energy Ltd 12,USA,WTI,84.93,47936.64,89.34,58,Medium,2
+ALT_226,India Energy Ltd 13,India,WTI,108.54,77645.2,91.08,10,High,4
+ALT_227,Canada Energy Ltd 1,Canada,Brent,109.36,80527.34,72.59,60,Low,3
+ALT_228,Nigeria Energy Ltd 12,Nigeria,Dubai,77.85,152532.18,65.12,36,Medium,4
+ALT_229,Norway Energy Ltd 3,Norway,Dubai,77.56,140404.34,66.97,10,Low,5
+ALT_230,Nigeria Energy Ltd 21,Nigeria,Brent,50.83,50042.95,83.18,23,Medium,5
+ALT_231,USA Energy Ltd 12,USA,Dubai,66.6,99555.62,84.46,26,High,4
+ALT_232,Brazil Energy Ltd 14,Brazil,Oman,99.05,80738.83,94.09,20,Medium,2
+ALT_233,Canada Energy Ltd 9,Canada,WTI,106.99,146954.94,92.08,38,Medium,4
+ALT_234,India Energy Ltd 10,India,WTI,83.11,11851.04,76.82,11,Low,5
+ALT_235,Norway Energy Ltd 47,Norway,Dubai,104.97,67006.49,82.43,39,High,4
+ALT_236,UAE Energy Ltd 45,UAE,WTI,54.2,164625.43,79.01,43,High,4
+ALT_237,Qatar Energy Ltd 17,Qatar,Dubai,75.22,115923.38,92.32,25,High,4
+ALT_238,UAE Energy Ltd 23,UAE,WTI,90.38,133474.44,81.48,52,Medium,3
+ALT_239,Qatar Energy Ltd 44,Qatar,Oman,104.23,94916.72,63.13,42,Medium,4
+ALT_240,Saudi Arabia Energy Ltd 11,Saudi Arabia,Dubai,79.53,126338.93,76.15,7,High,2
+ALT_241,Qatar Energy Ltd 15,Qatar,Dubai,72.18,65357.71,70.67,44,Medium,3
+ALT_242,Nigeria Energy Ltd 50,Nigeria,Dubai,102.35,108977.78,77.97,13,High,1
+ALT_243,Saudi Arabia Energy Ltd 47,Saudi Arabia,WTI,96.34,188683.09,87.96,8,High,2
+ALT_244,Brazil Energy Ltd 7,Brazil,Brent,54.47,176951.29,81.88,4,Medium,5
+ALT_245,UAE Energy Ltd 7,UAE,Dubai,93.27,26019.14,97.17,27,Medium,2
+ALT_246,India Energy Ltd 48,India,Dubai,81.02,34018.22,81.02,13,High,1
+ALT_247,Qatar Energy Ltd 21,Qatar,Oman,82.7,175470.67,97.3,38,Medium,2
+ALT_248,Norway Energy Ltd 12,Norway,Oman,94.17,130811.72,82.5,36,Low,5
+ALT_249,USA Energy Ltd 23,USA,Oman,87.78,162894.48,77.63,26,Medium,3
+ALT_250,Saudi Arabia Energy Ltd 20,Saudi Arabia,Brent,50.01,164922.16,93.83,25,Medium,4
