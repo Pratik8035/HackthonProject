@@ -1,0 +1,72 @@
+{
+  "scenarios": {
+    "1_baseline_operations": {
+      "gap_data": {
+        "daily_gap": [20.0, 20.0, 20.0, 20.0, 20.0, 20.0, 20.0],
+        "horizon": 7,
+        "confidence": 0.95
+      },
+      "demand_data": [
+        {"id": "RIL_Jamnagar", "daily_demand": [180.0, 180.0, 180.0, 180.0, 180.0, 180.0, 180.0], "priority": 2.5},
+        {"id": "IOCL_Panipat", "daily_demand": [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0], "priority": 2.0},
+        {"id": "MRPL_Mangaluru", "daily_demand": [50.0, 50.0, 50.0, 50.0, 50.0, 50.0, 50.0], "priority": 1.0}
+      ],
+      "spr_data": {
+        "current_inventory": 3000.0,
+        "max_daily_drawdown": 120.0,
+        "min_reserve_level": 500.0
+      },
+      "procurement_data": {
+        "expected_incoming_shipments": [20.0, 20.0, 20.0, 20.0, 20.0, 20.0, 20.0],
+        "procurement_cost": [80.0, 80.0, 80.0, 80.0, 80.0, 80.0, 80.0],
+        "replenishment_lead_time": 2
+      }
+    },
+    
+    "2_strait_of_hormuz_closure_shock": {
+      "gap_data": {
+        "daily_gap": [100.0, 120.0, 150.0, 180.0, 200.0, 180.0, 150.0],
+        "horizon": 7,
+        "confidence": 0.85
+      },
+      "demand_data": [
+        {"id": "RIL_Jamnagar", "daily_demand": [180.0, 180.0, 180.0, 180.0, 180.0, 180.0, 180.0], "priority": 2.5},
+        {"id": "IOCL_Panipat", "daily_demand": [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0], "priority": 2.0},
+        {"id": "MRPL_Mangaluru", "daily_demand": [50.0, 50.0, 50.0, 50.0, 50.0, 50.0, 50.0], "priority": 1.0}
+      ],
+      "spr_data": {
+        "current_inventory": 3000.0,
+        "max_daily_drawdown": 150.0,
+        "min_reserve_level": 500.0
+      },
+      "procurement_data": {
+        "expected_incoming_shipments": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+        "procurement_cost": [120.0, 130.0, 140.0, 150.0, 160.0, 150.0, 140.0],
+        "replenishment_lead_time": 4
+      }
+    },
+
+    "3_port_strike_congestion": {
+      "gap_data": {
+        "daily_gap": [50.0, 50.0, 50.0, 80.0, 80.0, 50.0, 50.0],
+        "horizon": 7,
+        "confidence": 0.70
+      },
+      "demand_data": [
+        {"id": "RIL_Jamnagar", "daily_demand": [180.0, 180.0, 180.0, 180.0, 180.0, 180.0, 180.0], "priority": 2.5},
+        {"id": "IOCL_Panipat", "daily_demand": [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0], "priority": 2.0},
+        {"id": "MRPL_Mangaluru", "daily_demand": [50.0, 50.0, 50.0, 50.0, 50.0, 50.0, 50.0], "priority": 1.0}
+      ],
+      "spr_data": {
+        "current_inventory": 1200.0,
+        "max_daily_drawdown": 80.0,
+        "min_reserve_level": 300.0
+      },
+      "procurement_data": {
+        "expected_incoming_shipments": [10.0, 5.0, 0.0, 0.0, 5.0, 10.0, 20.0],
+        "procurement_cost": [85.0, 85.0, 90.0, 95.0, 90.0, 85.0, 85.0],
+        "replenishment_lead_time": 6
+      }
+    }
+  }
+}

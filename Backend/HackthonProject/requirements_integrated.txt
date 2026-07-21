@@ -1,0 +1,25 @@
+# Integrated Requirements for Supply Chain Platform
+FastAPI>=0.100.0
+uvicorn>=0.20.0
+Flask>=2.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+lightgbm>=4.1.0
+catboost>=1.2.0
+prophet>=1.1.4
+pulp>=2.7.0
+streamlit>=1.28.0
+plotly>=5.17.0
+shap>=0.43.0
+openpyxl>=3.1.0
+xlrd>=2.0.1
+requests>=2.31.0
+tqdm>=4.66.0
+networkx>=3.0
+joblib>=1.2.0
+ortools>=9.6.0
+pydantic>=2.0
+colorama

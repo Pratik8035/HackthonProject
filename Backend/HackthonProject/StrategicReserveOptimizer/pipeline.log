@@ -1,0 +1,10 @@
+2026-07-15 16:05:08,770 - INFO - +==============================================================+
+2026-07-15 16:05:08,772 - INFO - |    STRATEGIC RESERVE OPTIMIZATION AGENT - FULL PIPELINE     |
+2026-07-15 16:05:08,772 - INFO - |    India Energy Security | AI-Powered SPR Management        |
+2026-07-15 16:05:08,772 - INFO - +==============================================================+
+2026-07-15 16:05:08,772 - INFO - 
+============================================================
+2026-07-15 16:05:08,772 - INFO - PHASE 1: Data Generation
+2026-07-15 16:05:08,772 - INFO - ============================================================
+2026-07-15 16:05:09,515 - ERROR - Phase 1 FAILED: cannot import name 'run_all_generators' from 'src.data.data_generator' (D:\HACKTHONS\ET AI\HackthonProject\HackthonProject\StrategicReserveOptimizer\src\data\data_generator.py)
+2026-07-15 16:05:09,515 - CRITICAL - Pipeline failed with error: cannot import name 'run_all_generators' from 'src.data.data_generator' (D:\HACKTHONS\ET AI\HackthonProject\HackthonProject\StrategicReserveOptimizer\src\data\data_generator.py)

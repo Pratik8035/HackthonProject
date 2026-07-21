@@ -1,0 +1,24 @@
+{
+    "current_spr_inventory": {"Vizag": 1000.0, "Mangaluru": 1200.0, "Padur": 2000.0},
+    "forecasted_prices": [80.0, 85.0, 90.0, 95.0, 100.0],
+    "max_port_throughput": 350.0,
+    "forecasted_demand": {
+        "IOCL_Panipat": [50.0, 50.0, 50.0, 50.0, 50.0], 
+        "IOCL_Koyali": [45.0, 45.0, 45.0, 45.0, 45.0], 
+        "RIL_Jamnagar": [180.0, 180.0, 180.0, 180.0, 180.0], 
+        "Nayara_Vadinar": [60.0, 60.0, 60.0, 60.0, 60.0], 
+        "BPCL_Kochi": [45.0, 45.0, 45.0, 45.0, 45.0], 
+        "MRPL_Mangaluru": [45.0, 45.0, 45.0, 45.0, 45.0], 
+        "CPCL_Chennai": [30.0, 30.0, 30.0, 30.0, 30.0]
+    },
+    "forecasted_supplier_avail": {
+        "Iraq": [100.0, 100.0, 100.0, 100.0, 100.0], 
+        "Saudi_Arabia": [100.0, 100.0, 100.0, 100.0, 100.0], 
+        "Russia": [10.0, 10.0, 10.0, 10.0, 10.0], 
+        "UAE": [50.0, 50.0, 50.0, 50.0, 50.0], 
+        "USA": [20.0, 20.0, 20.0, 20.0, 20.0], 
+        "Nigeria": [20.0, 20.0, 20.0, 20.0, 20.0], 
+        "Spot_Market": [30.0, 30.0, 30.0, 30.0, 30.0]
+    },
+    "geopolitical_disruption_level": 85.0
+}

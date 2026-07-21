@@ -1,0 +1,201 @@
+Scenario ID,Scenario Name,Scenario Type,Severity,Affected Region,Affected Commodity,Affected Route,Base Probability
+1,OPEC Production Cut 1,Economic,High,Global,Crude Oil,Global Routes,0.64
+2,Singapore Port Congestion 2,Port Disruption,Medium,Asia,Fuel Oil,Malacca Strait,0.84
+3,Extreme Weather Disruption 3,Weather,Medium,North Sea,Brent Crude,North Sea Route,0.78
+4,Pakistan Port Strike 4,Labor Strike,Medium,South Asia,Refined Products,Arabian Sea Route,0.26
+5,UAE Port Strike 5,Labor Strike,Medium,Middle East,Refined Products,Jebel Ali Route,0.86
+6,Extreme Weather Disruption 6,Weather,Medium,North Sea,Brent Crude,North Sea Route,0.56
+7,Suez Canal Blockage 7,Logistics,High,Egypt,Crude Oil,Suez Canal,0.79
+8,OPEC Production Cut 8,Economic,High,Global,Crude Oil,Global Routes,0.86
+9,Iran-Israel Conflict Escalation 9,Geopolitical Conflict,Critical,Middle East,Crude & Gas,Persian Gulf,0.37
+10,Red Sea Shipping Attack 10,Geopolitical Conflict,High,Middle East,Refined Products,Bab-el-Mandeb,0.19
+11,OPEC Production Cut 11,Economic,High,Global,Crude Oil,Global Routes,0.29
+12,Pakistan Port Strike 12,Labor Strike,Medium,South Asia,Refined Products,Arabian Sea Route,0.46
+13,Pakistan Port Strike 13,Labor Strike,Medium,South Asia,Refined Products,Arabian Sea Route,0.8
+14,UAE Port Strike 14,Labor Strike,Medium,Middle East,Refined Products,Jebel Ali Route,0.83
+15,Suez Canal Blockage 15,Logistics,High,Egypt,Crude Oil,Suez Canal,0.11
+16,Singapore Port Congestion 16,Port Disruption,Medium,Asia,Fuel Oil,Malacca Strait,0.53
+17,UAE Port Strike 17,Labor Strike,Medium,Middle East,Refined Products,Jebel Ali Route,0.45
+18,UAE Port Strike 18,Labor Strike,Medium,Middle East,Refined Products,Jebel Ali Route,0.29
+19,Red Sea Shipping Attack 19,Geopolitical Conflict,High,Middle East,Refined Products,Bab-el-Mandeb,0.2
+20,Cyclone in Indian Ocean 20,Weather,High,Indian Ocean,LNG,Indian Ocean Route,0.39
+21,Suez Canal Blockage 21,Logistics,High,Egypt,Crude Oil,Suez Canal,0.9
+22,Russian Oil Export Sanctions 22,Sanctions,High,Europe,Urals Crude,North Sea Route,0.37
+23,UAE Port Strike 23,Labor Strike,Medium,Middle East,Refined Products,Jebel Ali Route,0.54
+24,Major Cyber Attack on Oil Infrastructure 24,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.7
+25,Global Fuel Price Shock 25,Economic,High,Global,Refined Products,Global Routes,0.41
+26,Cyclone in Indian Ocean 26,Weather,High,Indian Ocean,LNG,Indian Ocean Route,0.93
+27,Russian Oil Export Sanctions 27,Sanctions,High,Europe,Urals Crude,North Sea Route,0.92
+28,Major Cyber Attack on Oil Infrastructure 28,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.31
+29,Suez Canal Blockage 29,Logistics,High,Egypt,Crude Oil,Suez Canal,0.52
+30,Strait of Hormuz Closure 30,Geopolitical Conflict,Critical,Middle East,Crude Oil,Strait of Hormuz,0.36
+31,Major Cyber Attack on Oil Infrastructure 31,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.34
+32,Iran-Israel Conflict Escalation 32,Geopolitical Conflict,Critical,Middle East,Crude & Gas,Persian Gulf,0.13
+33,Cyclone in Indian Ocean 33,Weather,High,Indian Ocean,LNG,Indian Ocean Route,0.62
+34,Extreme Weather Disruption 34,Weather,Medium,North Sea,Brent Crude,North Sea Route,0.53
+35,Major Cyber Attack on Oil Infrastructure 35,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.14
+36,LNG Terminal Explosion 36,Industrial Accident,High,North America,LNG,Transatlantic Route,0.34
+37,Strait of Hormuz Closure 37,Geopolitical Conflict,Critical,Middle East,Crude Oil,Strait of Hormuz,0.87
+38,Pakistan Port Strike 38,Labor Strike,Medium,South Asia,Refined Products,Arabian Sea Route,0.3
+39,Pakistan Port Strike 39,Labor Strike,Medium,South Asia,Refined Products,Arabian Sea Route,0.22
+40,Iran-Israel Conflict Escalation 40,Geopolitical Conflict,Critical,Middle East,Crude & Gas,Persian Gulf,0.52
+41,Major Cyber Attack on Oil Infrastructure 41,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.94
+42,Major Cyber Attack on Oil Infrastructure 42,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.31
+43,Global Fuel Price Shock 43,Economic,High,Global,Refined Products,Global Routes,0.67
+44,Global Fuel Price Shock 44,Economic,High,Global,Refined Products,Global Routes,0.75
+45,Global Fuel Price Shock 45,Economic,High,Global,Refined Products,Global Routes,0.3
+46,Red Sea Shipping Attack 46,Geopolitical Conflict,High,Middle East,Refined Products,Bab-el-Mandeb,0.72
+47,Major Cyber Attack on Oil Infrastructure 47,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.41
+48,OPEC Production Cut 48,Economic,High,Global,Crude Oil,Global Routes,0.64
+49,Singapore Port Congestion 49,Port Disruption,Medium,Asia,Fuel Oil,Malacca Strait,0.64
+50,LNG Terminal Explosion 50,Industrial Accident,High,North America,LNG,Transatlantic Route,0.56
+51,Red Sea Shipping Attack 51,Geopolitical Conflict,High,Middle East,Refined Products,Bab-el-Mandeb,0.18
+52,Suez Canal Blockage 52,Logistics,High,Egypt,Crude Oil,Suez Canal,0.81
+53,Red Sea Shipping Attack 53,Geopolitical Conflict,High,Middle East,Refined Products,Bab-el-Mandeb,0.37
+54,OPEC Production Cut 54,Economic,High,Global,Crude Oil,Global Routes,0.26
+55,Suez Canal Blockage 55,Logistics,High,Egypt,Crude Oil,Suez Canal,0.13
+56,LNG Terminal Explosion 56,Industrial Accident,High,North America,LNG,Transatlantic Route,0.6
+57,OPEC Production Cut 57,Economic,High,Global,Crude Oil,Global Routes,0.68
+58,Russian Oil Export Sanctions 58,Sanctions,High,Europe,Urals Crude,North Sea Route,0.11
+59,Singapore Port Congestion 59,Port Disruption,Medium,Asia,Fuel Oil,Malacca Strait,0.54
+60,LNG Terminal Explosion 60,Industrial Accident,High,North America,LNG,Transatlantic Route,0.29
+61,Major Cyber Attack on Oil Infrastructure 61,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.65
+62,Global Fuel Price Shock 62,Economic,High,Global,Refined Products,Global Routes,0.25
+63,Russian Oil Export Sanctions 63,Sanctions,High,Europe,Urals Crude,North Sea Route,0.69
+64,Iran-Israel Conflict Escalation 64,Geopolitical Conflict,Critical,Middle East,Crude & Gas,Persian Gulf,0.43
+65,LNG Terminal Explosion 65,Industrial Accident,High,North America,LNG,Transatlantic Route,0.9
+66,Iran-Israel Conflict Escalation 66,Geopolitical Conflict,Critical,Middle East,Crude & Gas,Persian Gulf,0.22
+67,Suez Canal Blockage 67,Logistics,High,Egypt,Crude Oil,Suez Canal,0.39
+68,Russian Oil Export Sanctions 68,Sanctions,High,Europe,Urals Crude,North Sea Route,0.2
+69,Singapore Port Congestion 69,Port Disruption,Medium,Asia,Fuel Oil,Malacca Strait,0.89
+70,Major Cyber Attack on Oil Infrastructure 70,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.85
+71,Major Cyber Attack on Oil Infrastructure 71,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.32
+72,OPEC Production Cut 72,Economic,High,Global,Crude Oil,Global Routes,0.66
+73,Major Cyber Attack on Oil Infrastructure 73,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.79
+74,Extreme Weather Disruption 74,Weather,Medium,North Sea,Brent Crude,North Sea Route,0.57
+75,UAE Port Strike 75,Labor Strike,Medium,Middle East,Refined Products,Jebel Ali Route,0.55
+76,Red Sea Shipping Attack 76,Geopolitical Conflict,High,Middle East,Refined Products,Bab-el-Mandeb,0.31
+77,Global Fuel Price Shock 77,Economic,High,Global,Refined Products,Global Routes,0.18
+78,Strait of Hormuz Closure 78,Geopolitical Conflict,Critical,Middle East,Crude Oil,Strait of Hormuz,0.86
+79,Singapore Port Congestion 79,Port Disruption,Medium,Asia,Fuel Oil,Malacca Strait,0.87
+80,Russian Oil Export Sanctions 80,Sanctions,High,Europe,Urals Crude,North Sea Route,0.64
+81,UAE Port Strike 81,Labor Strike,Medium,Middle East,Refined Products,Jebel Ali Route,0.39
+82,Singapore Port Congestion 82,Port Disruption,Medium,Asia,Fuel Oil,Malacca Strait,0.4
+83,Russian Oil Export Sanctions 83,Sanctions,High,Europe,Urals Crude,North Sea Route,0.72
+84,Global Fuel Price Shock 84,Economic,High,Global,Refined Products,Global Routes,0.86
+85,Cyclone in Indian Ocean 85,Weather,High,Indian Ocean,LNG,Indian Ocean Route,0.85
+86,Cyclone in Indian Ocean 86,Weather,High,Indian Ocean,LNG,Indian Ocean Route,0.76
+87,Iran-Israel Conflict Escalation 87,Geopolitical Conflict,Critical,Middle East,Crude & Gas,Persian Gulf,0.65
+88,Singapore Port Congestion 88,Port Disruption,Medium,Asia,Fuel Oil,Malacca Strait,0.17
+89,Cyclone in Indian Ocean 89,Weather,High,Indian Ocean,LNG,Indian Ocean Route,0.24
+90,Extreme Weather Disruption 90,Weather,Medium,North Sea,Brent Crude,North Sea Route,0.86
+91,Russian Oil Export Sanctions 91,Sanctions,High,Europe,Urals Crude,North Sea Route,0.62
+92,Iran-Israel Conflict Escalation 92,Geopolitical Conflict,Critical,Middle East,Crude & Gas,Persian Gulf,0.11
+93,Major Cyber Attack on Oil Infrastructure 93,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.19
+94,Russian Oil Export Sanctions 94,Sanctions,High,Europe,Urals Crude,North Sea Route,0.66
+95,Iran-Israel Conflict Escalation 95,Geopolitical Conflict,Critical,Middle East,Crude & Gas,Persian Gulf,0.1
+96,Global Fuel Price Shock 96,Economic,High,Global,Refined Products,Global Routes,0.24
+97,Singapore Port Congestion 97,Port Disruption,Medium,Asia,Fuel Oil,Malacca Strait,0.57
+98,Global Fuel Price Shock 98,Economic,High,Global,Refined Products,Global Routes,0.69
+99,UAE Port Strike 99,Labor Strike,Medium,Middle East,Refined Products,Jebel Ali Route,0.65
+100,Global Fuel Price Shock 100,Economic,High,Global,Refined Products,Global Routes,0.29
+101,OPEC Production Cut 101,Economic,High,Global,Crude Oil,Global Routes,0.71
+102,Major Cyber Attack on Oil Infrastructure 102,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.3
+103,LNG Terminal Explosion 103,Industrial Accident,High,North America,LNG,Transatlantic Route,0.38
+104,Global Fuel Price Shock 104,Economic,High,Global,Refined Products,Global Routes,0.73
+105,UAE Port Strike 105,Labor Strike,Medium,Middle East,Refined Products,Jebel Ali Route,0.65
+106,Suez Canal Blockage 106,Logistics,High,Egypt,Crude Oil,Suez Canal,0.82
+107,Extreme Weather Disruption 107,Weather,Medium,North Sea,Brent Crude,North Sea Route,0.66
+108,Russian Oil Export Sanctions 108,Sanctions,High,Europe,Urals Crude,North Sea Route,0.58
+109,Suez Canal Blockage 109,Logistics,High,Egypt,Crude Oil,Suez Canal,0.18
+110,UAE Port Strike 110,Labor Strike,Medium,Middle East,Refined Products,Jebel Ali Route,0.41
+111,Iran-Israel Conflict Escalation 111,Geopolitical Conflict,Critical,Middle East,Crude & Gas,Persian Gulf,0.33
+112,LNG Terminal Explosion 112,Industrial Accident,High,North America,LNG,Transatlantic Route,0.31
+113,Major Cyber Attack on Oil Infrastructure 113,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.93
+114,Major Cyber Attack on Oil Infrastructure 114,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.43
+115,Major Cyber Attack on Oil Infrastructure 115,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.86
+116,Extreme Weather Disruption 116,Weather,Medium,North Sea,Brent Crude,North Sea Route,0.64
+117,LNG Terminal Explosion 117,Industrial Accident,High,North America,LNG,Transatlantic Route,0.78
+118,Extreme Weather Disruption 118,Weather,Medium,North Sea,Brent Crude,North Sea Route,0.53
+119,Extreme Weather Disruption 119,Weather,Medium,North Sea,Brent Crude,North Sea Route,0.59
+120,Strait of Hormuz Closure 120,Geopolitical Conflict,Critical,Middle East,Crude Oil,Strait of Hormuz,0.52
+121,LNG Terminal Explosion 121,Industrial Accident,High,North America,LNG,Transatlantic Route,0.27
+122,OPEC Production Cut 122,Economic,High,Global,Crude Oil,Global Routes,0.71
+123,LNG Terminal Explosion 123,Industrial Accident,High,North America,LNG,Transatlantic Route,0.34
+124,UAE Port Strike 124,Labor Strike,Medium,Middle East,Refined Products,Jebel Ali Route,0.12
+125,Strait of Hormuz Closure 125,Geopolitical Conflict,Critical,Middle East,Crude Oil,Strait of Hormuz,0.65
+126,Major Cyber Attack on Oil Infrastructure 126,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.25
+127,UAE Port Strike 127,Labor Strike,Medium,Middle East,Refined Products,Jebel Ali Route,0.9
+128,UAE Port Strike 128,Labor Strike,Medium,Middle East,Refined Products,Jebel Ali Route,0.91
+129,Pakistan Port Strike 129,Labor Strike,Medium,South Asia,Refined Products,Arabian Sea Route,0.88
+130,Red Sea Shipping Attack 130,Geopolitical Conflict,High,Middle East,Refined Products,Bab-el-Mandeb,0.41
+131,Strait of Hormuz Closure 131,Geopolitical Conflict,Critical,Middle East,Crude Oil,Strait of Hormuz,0.11
+132,UAE Port Strike 132,Labor Strike,Medium,Middle East,Refined Products,Jebel Ali Route,0.89
+133,Red Sea Shipping Attack 133,Geopolitical Conflict,High,Middle East,Refined Products,Bab-el-Mandeb,0.46
+134,Red Sea Shipping Attack 134,Geopolitical Conflict,High,Middle East,Refined Products,Bab-el-Mandeb,0.92
+135,Strait of Hormuz Closure 135,Geopolitical Conflict,Critical,Middle East,Crude Oil,Strait of Hormuz,0.92
+136,Pakistan Port Strike 136,Labor Strike,Medium,South Asia,Refined Products,Arabian Sea Route,0.83
+137,Suez Canal Blockage 137,Logistics,High,Egypt,Crude Oil,Suez Canal,0.35
+138,Iran-Israel Conflict Escalation 138,Geopolitical Conflict,Critical,Middle East,Crude & Gas,Persian Gulf,0.43
+139,OPEC Production Cut 139,Economic,High,Global,Crude Oil,Global Routes,0.82
+140,Iran-Israel Conflict Escalation 140,Geopolitical Conflict,Critical,Middle East,Crude & Gas,Persian Gulf,0.37
+141,LNG Terminal Explosion 141,Industrial Accident,High,North America,LNG,Transatlantic Route,0.24
+142,Major Cyber Attack on Oil Infrastructure 142,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.57
+143,OPEC Production Cut 143,Economic,High,Global,Crude Oil,Global Routes,0.9
+144,LNG Terminal Explosion 144,Industrial Accident,High,North America,LNG,Transatlantic Route,0.69
+145,UAE Port Strike 145,Labor Strike,Medium,Middle East,Refined Products,Jebel Ali Route,0.58
+146,Major Cyber Attack on Oil Infrastructure 146,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.18
+147,Russian Oil Export Sanctions 147,Sanctions,High,Europe,Urals Crude,North Sea Route,0.62
+148,Strait of Hormuz Closure 148,Geopolitical Conflict,Critical,Middle East,Crude Oil,Strait of Hormuz,0.94
+149,OPEC Production Cut 149,Economic,High,Global,Crude Oil,Global Routes,0.22
+150,OPEC Production Cut 150,Economic,High,Global,Crude Oil,Global Routes,0.54
+151,Global Fuel Price Shock 151,Economic,High,Global,Refined Products,Global Routes,0.85
+152,UAE Port Strike 152,Labor Strike,Medium,Middle East,Refined Products,Jebel Ali Route,0.73
+153,Suez Canal Blockage 153,Logistics,High,Egypt,Crude Oil,Suez Canal,0.69
+154,Red Sea Shipping Attack 154,Geopolitical Conflict,High,Middle East,Refined Products,Bab-el-Mandeb,0.7
+155,Major Cyber Attack on Oil Infrastructure 155,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.41
+156,UAE Port Strike 156,Labor Strike,Medium,Middle East,Refined Products,Jebel Ali Route,0.35
+157,Cyclone in Indian Ocean 157,Weather,High,Indian Ocean,LNG,Indian Ocean Route,0.79
+158,Pakistan Port Strike 158,Labor Strike,Medium,South Asia,Refined Products,Arabian Sea Route,0.79
+159,Red Sea Shipping Attack 159,Geopolitical Conflict,High,Middle East,Refined Products,Bab-el-Mandeb,0.84
+160,Strait of Hormuz Closure 160,Geopolitical Conflict,Critical,Middle East,Crude Oil,Strait of Hormuz,0.88
+161,Red Sea Shipping Attack 161,Geopolitical Conflict,High,Middle East,Refined Products,Bab-el-Mandeb,0.53
+162,Suez Canal Blockage 162,Logistics,High,Egypt,Crude Oil,Suez Canal,0.53
+163,Global Fuel Price Shock 163,Economic,High,Global,Refined Products,Global Routes,0.78
+164,Red Sea Shipping Attack 164,Geopolitical Conflict,High,Middle East,Refined Products,Bab-el-Mandeb,0.65
+165,Strait of Hormuz Closure 165,Geopolitical Conflict,Critical,Middle East,Crude Oil,Strait of Hormuz,0.7
+166,Suez Canal Blockage 166,Logistics,High,Egypt,Crude Oil,Suez Canal,0.78
+167,Iran-Israel Conflict Escalation 167,Geopolitical Conflict,Critical,Middle East,Crude & Gas,Persian Gulf,0.86
+168,OPEC Production Cut 168,Economic,High,Global,Crude Oil,Global Routes,0.39
+169,Global Fuel Price Shock 169,Economic,High,Global,Refined Products,Global Routes,0.42
+170,OPEC Production Cut 170,Economic,High,Global,Crude Oil,Global Routes,0.18
+171,Pakistan Port Strike 171,Labor Strike,Medium,South Asia,Refined Products,Arabian Sea Route,0.59
+172,LNG Terminal Explosion 172,Industrial Accident,High,North America,LNG,Transatlantic Route,0.13
+173,Iran-Israel Conflict Escalation 173,Geopolitical Conflict,Critical,Middle East,Crude & Gas,Persian Gulf,0.5
+174,Iran-Israel Conflict Escalation 174,Geopolitical Conflict,Critical,Middle East,Crude & Gas,Persian Gulf,0.56
+175,Major Cyber Attack on Oil Infrastructure 175,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.34
+176,Extreme Weather Disruption 176,Weather,Medium,North Sea,Brent Crude,North Sea Route,0.6
+177,Red Sea Shipping Attack 177,Geopolitical Conflict,High,Middle East,Refined Products,Bab-el-Mandeb,0.13
+178,OPEC Production Cut 178,Economic,High,Global,Crude Oil,Global Routes,0.13
+179,Strait of Hormuz Closure 179,Geopolitical Conflict,Critical,Middle East,Crude Oil,Strait of Hormuz,0.8
+180,Singapore Port Congestion 180,Port Disruption,Medium,Asia,Fuel Oil,Malacca Strait,0.41
+181,Extreme Weather Disruption 181,Weather,Medium,North Sea,Brent Crude,North Sea Route,0.21
+182,Singapore Port Congestion 182,Port Disruption,Medium,Asia,Fuel Oil,Malacca Strait,0.54
+183,Global Fuel Price Shock 183,Economic,High,Global,Refined Products,Global Routes,0.75
+184,Suez Canal Blockage 184,Logistics,High,Egypt,Crude Oil,Suez Canal,0.28
+185,OPEC Production Cut 185,Economic,High,Global,Crude Oil,Global Routes,0.63
+186,OPEC Production Cut 186,Economic,High,Global,Crude Oil,Global Routes,0.17
+187,Extreme Weather Disruption 187,Weather,Medium,North Sea,Brent Crude,North Sea Route,0.14
+188,Pakistan Port Strike 188,Labor Strike,Medium,South Asia,Refined Products,Arabian Sea Route,0.55
+189,Extreme Weather Disruption 189,Weather,Medium,North Sea,Brent Crude,North Sea Route,0.56
+190,Singapore Port Congestion 190,Port Disruption,Medium,Asia,Fuel Oil,Malacca Strait,0.64
+191,Extreme Weather Disruption 191,Weather,Medium,North Sea,Brent Crude,North Sea Route,0.72
+192,OPEC Production Cut 192,Economic,High,Global,Crude Oil,Global Routes,0.93
+193,Pakistan Port Strike 193,Labor Strike,Medium,South Asia,Refined Products,Arabian Sea Route,0.54
+194,Red Sea Shipping Attack 194,Geopolitical Conflict,High,Middle East,Refined Products,Bab-el-Mandeb,0.37
+195,Cyclone in Indian Ocean 195,Weather,High,Indian Ocean,LNG,Indian Ocean Route,0.78
+196,Major Cyber Attack on Oil Infrastructure 196,Cyber Security,High,Global,Crude & Products,Pipeline Networks,0.33
+197,Russian Oil Export Sanctions 197,Sanctions,High,Europe,Urals Crude,North Sea Route,0.47
+198,Iran-Israel Conflict Escalation 198,Geopolitical Conflict,Critical,Middle East,Crude & Gas,Persian Gulf,0.17
+199,Extreme Weather Disruption 199,Weather,Medium,North Sea,Brent Crude,North Sea Route,0.12
+200,Global Fuel Price Shock 200,Economic,High,Global,Refined Products,Global Routes,0.92

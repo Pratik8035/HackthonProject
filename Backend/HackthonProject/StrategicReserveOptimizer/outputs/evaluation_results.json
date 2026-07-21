@@ -1,0 +1,110 @@
+{
+  "baseline": {
+    "release_spr": true,
+    "drawdown_schedule": [
+      100.0,
+      100.0,
+      100.0,
+      15.0,
+      15.0,
+      15.0,
+      15.0
+    ],
+    "refinery_allocation": {
+      "Refinery_A": [
+        91.52,
+        6.52,
+        6.52,
+        6.52,
+        6.52,
+        6.52,
+        6.52
+      ],
+      "Refinery_B": [
+        5.22,
+        5.22,
+        90.22,
+        5.22,
+        5.22,
+        5.22,
+        5.22
+      ],
+      "Refinery_C": [
+        3.26,
+        88.26,
+        3.26,
+        3.26,
+        3.26,
+        3.26,
+        3.26
+      ]
+    },
+    "replenishment_plan": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "remaining_reserve": 1640.0,
+    "estimated_total_cost": 74.45,
+    "optimization_score": 85.5,
+    "explanation": "Based on a 7-day forecast with 90% confidence, the optimizer recommends releasing a total of 360.0 units from the Strategic Petroleum Reserve. This drawdown is explicitly allocated to high-priority refineries to minimize economic disruption. "
+  },
+  "severe_shock": {
+    "release_spr": true,
+    "drawdown_schedule": [
+      100.0,
+      100.0,
+      100.0,
+      100.0,
+      90.0,
+      80.0,
+      70.0
+    ],
+    "refinery_allocation": {
+      "Refinery_A": [
+        54.78,
+        49.13,
+        43.48,
+        47.83,
+        39.13,
+        34.78,
+        30.43
+      ],
+      "Refinery_B": [
+        27.83,
+        31.3,
+        34.78,
+        38.26,
+        31.3,
+        27.83,
+        24.35
+      ],
+      "Refinery_C": [
+        17.39,
+        19.57,
+        21.74,
+        13.91,
+        19.57,
+        17.39,
+        15.22
+      ]
+    },
+    "replenishment_plan": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "remaining_reserve": 1360.0,
+    "estimated_total_cost": 176.3,
+    "optimization_score": 90.2,
+    "explanation": "Based on a 7-day forecast with 95% confidence, the optimizer recommends releasing a total of 640.0 units from the Strategic Petroleum Reserve. This drawdown is explicitly allocated to high-priority refineries to minimize economic disruption. "
+  }
+}

@@ -1,0 +1,101 @@
+supplier_id,supplier_name,country,crude_type,price_per_barrel,capacity,reliability,lead_time,availability
+CUR_001,USA Oil Supplier 9,USA,Dubai,66.86,100038.01,87.02,20,High
+CUR_002,Qatar Oil Supplier 17,Qatar,WTI,91.9,26823.84,81.99,35,High
+CUR_003,Qatar Oil Supplier 5,Qatar,Brent,108.23,147128.39,74.58,35,Medium
+CUR_004,Qatar Oil Supplier 7,Qatar,Dubai,76.06,103966.73,96.33,10,Low
+CUR_005,USA Oil Supplier 8,USA,Brent,105.66,42758.42,95.59,16,High
+CUR_006,India Oil Supplier 16,India,WTI,106.83,145077.08,96.86,7,High
+CUR_007,Saudi Arabia Oil Supplier 19,Saudi Arabia,Brent,106.42,63555.47,83.18,39,Low
+CUR_008,India Oil Supplier 5,India,Oman,73.64,125145.8,79.59,34,Low
+CUR_009,Saudi Arabia Oil Supplier 6,Saudi Arabia,Brent,96.83,122799.8,86.47,17,High
+CUR_010,USA Oil Supplier 13,USA,Oman,85.76,31275.91,89.41,16,High
+CUR_011,India Oil Supplier 11,India,WTI,60.34,69864.67,82.96,22,Medium
+CUR_012,Saudi Arabia Oil Supplier 19,Saudi Arabia,Brent,73.08,66741.77,76.85,12,Medium
+CUR_013,Saudi Arabia Oil Supplier 6,Saudi Arabia,Oman,94.3,140003.78,95.75,24,Low
+CUR_014,Russia Oil Supplier 10,Russia,Dubai,90.73,48486.72,73.87,14,Medium
+CUR_015,Qatar Oil Supplier 20,Qatar,Dubai,80.79,91400.49,83.65,39,Low
+CUR_016,UAE Oil Supplier 8,UAE,Brent,86.28,88662.51,80.49,41,High
+CUR_017,Russia Oil Supplier 18,Russia,WTI,88.64,39480.81,79.52,38,Medium
+CUR_018,Russia Oil Supplier 7,Russia,Oman,64.55,86348.8,93.45,34,High
+CUR_019,USA Oil Supplier 14,USA,Oman,88.2,92643.64,89.51,24,Low
+CUR_020,Russia Oil Supplier 13,Russia,Dubai,100.82,116954.58,86.77,7,Medium
+CUR_021,Saudi Arabia Oil Supplier 3,Saudi Arabia,Brent,106.73,28972.49,97.08,7,Medium
+CUR_022,India Oil Supplier 6,India,WTI,98.29,147183.33,88.73,31,Medium
+CUR_023,India Oil Supplier 15,India,Oman,78.78,108754.95,89.19,39,High
+CUR_024,Qatar Oil Supplier 12,Qatar,Brent,68.92,89843.6,85.34,19,High
+CUR_025,Russia Oil Supplier 10,Russia,Oman,93.67,90777.89,85.43,19,High
+CUR_026,India Oil Supplier 12,India,WTI,73.78,141863.35,91.03,12,High
+CUR_027,Qatar Oil Supplier 14,Qatar,Brent,72.03,28747.82,87.22,33,Low
+CUR_028,Qatar Oil Supplier 2,Qatar,WTI,97.03,72294.5,76.8,18,High
+CUR_029,UAE Oil Supplier 17,UAE,Dubai,71.71,139131.61,86.71,41,Low
+CUR_030,Qatar Oil Supplier 11,Qatar,WTI,75.09,38623.86,89.15,19,Medium
+CUR_031,Saudi Arabia Oil Supplier 9,Saudi Arabia,Brent,87.84,96916.73,91.32,16,Low
+CUR_032,Qatar Oil Supplier 14,Qatar,Oman,62.34,64773.93,88.66,29,Low
+CUR_033,Saudi Arabia Oil Supplier 14,Saudi Arabia,Oman,67.46,68939.82,91.88,35,High
+CUR_034,UAE Oil Supplier 10,UAE,WTI,100.29,138916.35,86.31,31,Low
+CUR_035,USA Oil Supplier 5,USA,Oman,72.14,46433.78,88.75,33,Medium
+CUR_036,Russia Oil Supplier 18,Russia,WTI,62.58,69031.84,87.54,7,High
+CUR_037,UAE Oil Supplier 19,UAE,WTI,83.97,133031.6,79.66,5,High
+CUR_038,UAE Oil Supplier 4,UAE,Oman,105.72,110431.42,90.41,30,High
+CUR_039,USA Oil Supplier 11,USA,Dubai,79.03,89374.52,80.42,21,Medium
+CUR_040,USA Oil Supplier 16,USA,Oman,64.93,147571.4,83.62,25,High
+CUR_041,Saudi Arabia Oil Supplier 11,Saudi Arabia,Oman,62.29,132331.03,91.5,6,Medium
+CUR_042,USA Oil Supplier 19,USA,Oman,74.76,45504.93,76.67,41,High
+CUR_043,India Oil Supplier 18,India,Dubai,72.87,126806.95,98.03,36,Medium
+CUR_044,UAE Oil Supplier 12,UAE,WTI,67.0,91051.02,75.34,39,Low
+CUR_045,Russia Oil Supplier 17,Russia,Brent,101.95,29662.95,93.72,8,High
+CUR_046,India Oil Supplier 5,India,WTI,63.4,39633.85,76.34,34,Medium
+CUR_047,Russia Oil Supplier 20,Russia,Oman,92.96,22045.13,85.43,31,High
+CUR_048,Russia Oil Supplier 17,Russia,Dubai,86.79,57269.51,84.56,32,High
+CUR_049,Russia Oil Supplier 4,Russia,WTI,72.05,100571.51,77.32,27,Medium
+CUR_050,India Oil Supplier 3,India,Dubai,107.96,79669.71,77.05,19,Medium
+CUR_051,Qatar Oil Supplier 3,Qatar,Brent,64.68,69304.32,86.03,8,Low
+CUR_052,Russia Oil Supplier 6,Russia,Brent,84.99,76408.25,92.75,41,High
+CUR_053,USA Oil Supplier 2,USA,WTI,70.57,132855.2,95.74,35,Medium
+CUR_054,Russia Oil Supplier 3,Russia,Dubai,104.97,93256.28,70.95,25,High
+CUR_055,UAE Oil Supplier 19,UAE,WTI,97.61,112652.48,81.55,9,Medium
+CUR_056,UAE Oil Supplier 19,UAE,WTI,88.33,130427.52,89.63,39,Medium
+CUR_057,India Oil Supplier 5,India,Brent,85.04,146662.03,71.56,32,High
+CUR_058,Russia Oil Supplier 11,Russia,Oman,108.45,62428.96,88.39,33,Medium
+CUR_059,UAE Oil Supplier 12,UAE,Oman,81.59,108360.33,89.16,10,Low
+CUR_060,Saudi Arabia Oil Supplier 8,Saudi Arabia,Brent,64.1,40048.73,90.64,45,High
+CUR_061,Qatar Oil Supplier 13,Qatar,Dubai,78.04,31897.66,97.35,33,Medium
+CUR_062,Saudi Arabia Oil Supplier 4,Saudi Arabia,WTI,64.36,76027.34,86.15,37,Medium
+CUR_063,Russia Oil Supplier 1,Russia,Brent,77.7,32098.35,87.34,25,Medium
+CUR_064,Russia Oil Supplier 10,Russia,Oman,79.39,31010.94,96.13,20,Low
+CUR_065,USA Oil Supplier 6,USA,Oman,68.48,54959.47,77.78,14,High
+CUR_066,UAE Oil Supplier 14,UAE,Dubai,81.06,82950.07,72.23,21,High
+CUR_067,Qatar Oil Supplier 16,Qatar,WTI,82.89,37613.64,70.2,30,Medium
+CUR_068,USA Oil Supplier 13,USA,Dubai,82.01,75980.11,93.88,43,High
+CUR_069,Saudi Arabia Oil Supplier 11,Saudi Arabia,WTI,83.95,43092.85,81.55,25,Medium
+CUR_070,Qatar Oil Supplier 16,Qatar,WTI,76.29,56439.02,92.79,28,High
+CUR_071,USA Oil Supplier 7,USA,WTI,94.09,91512.89,97.64,34,Low
+CUR_072,UAE Oil Supplier 15,UAE,Dubai,101.56,28990.63,94.59,31,Low
+CUR_073,India Oil Supplier 5,India,Dubai,72.1,105626.19,90.74,29,High
+CUR_074,India Oil Supplier 20,India,Oman,89.11,89467.76,96.78,31,Low
+CUR_075,Russia Oil Supplier 12,Russia,Brent,65.47,52270.03,89.28,15,Low
+CUR_076,USA Oil Supplier 2,USA,Oman,108.34,63107.57,93.09,11,High
+CUR_077,Russia Oil Supplier 9,Russia,WTI,85.53,87443.71,86.84,41,High
+CUR_078,India Oil Supplier 12,India,Oman,83.15,108342.21,90.02,14,Medium
+CUR_079,Russia Oil Supplier 16,Russia,Brent,74.77,139671.18,72.49,14,Medium
+CUR_080,Saudi Arabia Oil Supplier 11,Saudi Arabia,Oman,99.21,87744.93,80.1,11,Medium
+CUR_081,Qatar Oil Supplier 15,Qatar,Dubai,63.36,25808.8,90.61,6,Medium
+CUR_082,Qatar Oil Supplier 4,Qatar,WTI,106.5,116263.63,84.96,40,High
+CUR_083,Saudi Arabia Oil Supplier 18,Saudi Arabia,Oman,107.92,50141.22,81.75,16,High
+CUR_084,Qatar Oil Supplier 14,Qatar,Oman,61.46,99833.9,75.72,42,Medium
+CUR_085,India Oil Supplier 1,India,WTI,70.29,117802.31,93.45,9,Low
+CUR_086,Russia Oil Supplier 18,Russia,WTI,78.29,45619.66,73.3,36,Low
+CUR_087,Qatar Oil Supplier 11,Qatar,Oman,90.57,96310.61,80.09,34,Low
+CUR_088,UAE Oil Supplier 10,UAE,Brent,93.61,60714.15,76.92,12,High
+CUR_089,Saudi Arabia Oil Supplier 5,Saudi Arabia,Oman,80.91,37922.75,81.13,16,Medium
+CUR_090,Qatar Oil Supplier 18,Qatar,WTI,87.75,83653.46,74.07,25,Medium
+CUR_091,USA Oil Supplier 2,USA,Dubai,107.59,82999.16,75.66,29,Low
+CUR_092,USA Oil Supplier 16,USA,Oman,94.23,74031.96,94.36,36,High
+CUR_093,Russia Oil Supplier 19,Russia,Brent,99.79,48668.84,70.95,19,Low
+CUR_094,Saudi Arabia Oil Supplier 6,Saudi Arabia,Oman,88.28,120431.19,84.36,37,High
+CUR_095,USA Oil Supplier 4,USA,Dubai,98.76,127026.77,80.64,7,Low
+CUR_096,India Oil Supplier 18,India,WTI,109.49,33314.14,94.07,20,Medium
+CUR_097,Russia Oil Supplier 15,Russia,Dubai,77.43,126174.72,82.73,12,High
+CUR_098,UAE Oil Supplier 19,UAE,Dubai,103.05,99334.03,82.42,44,High
+CUR_099,UAE Oil Supplier 7,UAE,Brent,88.5,89196.5,87.31,15,Medium
+CUR_100,Qatar Oil Supplier 10,Qatar,Dubai,88.64,143811.65,84.92,11,High

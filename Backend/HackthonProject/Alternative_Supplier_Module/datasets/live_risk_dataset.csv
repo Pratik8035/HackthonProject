@@ -1,0 +1,301 @@
+supplier_country,risk_score,risk_level,disruption_probability
+UAE,10.5,Low Risk,Low
+USA,39.8,Medium Risk,Medium
+Saudi Arabia,24.73,Low Risk,Low
+Norway,33.48,Medium Risk,Medium
+Brazil,31.27,Medium Risk,Medium
+UAE,14.37,Low Risk,Low
+Norway,54.08,Medium Risk,Medium
+Norway,37.95,Medium Risk,Medium
+Norway,46.78,Medium Risk,Medium
+Nigeria,53.57,Medium Risk,Medium
+Russia,92.76,High Risk,High
+Saudi Arabia,23.96,Low Risk,Low
+Qatar,41.11,Medium Risk,Medium
+India,68.29,Medium Risk,Medium
+Qatar,34.09,Medium Risk,Medium
+Brazil,33.87,Medium Risk,Medium
+Qatar,54.15,Medium Risk,Medium
+Russia,91.89,High Risk,High
+Norway,34.99,Medium Risk,Medium
+Brazil,33.15,Medium Risk,Medium
+USA,63.18,Medium Risk,Medium
+Canada,65.42,Medium Risk,Medium
+Qatar,53.09,Medium Risk,Medium
+UAE,10.92,Low Risk,Low
+India,60.92,Medium Risk,Medium
+UAE,27.11,Low Risk,Low
+UAE,17.6,Low Risk,Low
+Nigeria,55.43,Medium Risk,Medium
+Qatar,36.51,Medium Risk,Medium
+Qatar,38.38,Medium Risk,Medium
+USA,58.07,Medium Risk,Medium
+UAE,22.18,Low Risk,Low
+Saudi Arabia,20.68,Low Risk,Low
+India,36.54,Medium Risk,Medium
+Brazil,40.8,Medium Risk,Medium
+Norway,38.78,Medium Risk,Medium
+Qatar,63.71,Medium Risk,Medium
+Russia,76.87,High Risk,High
+Russia,94.15,High Risk,High
+Brazil,40.71,Medium Risk,Medium
+India,66.53,Medium Risk,Medium
+Canada,65.05,Medium Risk,Medium
+Qatar,38.51,Medium Risk,Medium
+Nigeria,45.83,Medium Risk,Medium
+Nigeria,35.71,Medium Risk,Medium
+Saudi Arabia,14.93,Low Risk,Low
+Norway,51.56,Medium Risk,Medium
+Canada,47.14,Medium Risk,Medium
+Canada,45.98,Medium Risk,Medium
+India,69.89,Medium Risk,Medium
+Saudi Arabia,20.19,Low Risk,Low
+UAE,25.12,Low Risk,Low
+UAE,13.06,Low Risk,Low
+Saudi Arabia,25.84,Low Risk,Low
+Brazil,53.86,Medium Risk,Medium
+Brazil,45.26,Medium Risk,Medium
+Nigeria,51.16,Medium Risk,Medium
+Norway,64.43,Medium Risk,Medium
+Russia,90.41,High Risk,High
+UAE,23.63,Low Risk,Low
+Norway,60.04,Medium Risk,Medium
+Qatar,34.46,Medium Risk,Medium
+Brazil,36.33,Medium Risk,Medium
+Russia,98.61,High Risk,High
+USA,68.88,Medium Risk,Medium
+Saudi Arabia,20.15,Low Risk,Low
+UAE,27.41,Low Risk,Low
+USA,63.67,Medium Risk,Medium
+Norway,54.36,Medium Risk,Medium
+Saudi Arabia,17.48,Low Risk,Low
+Saudi Arabia,20.79,Low Risk,Low
+Norway,66.74,Medium Risk,Medium
+Canada,42.97,Medium Risk,Medium
+Russia,73.36,High Risk,High
+Qatar,65.15,Medium Risk,Medium
+USA,39.58,Medium Risk,Medium
+India,65.12,Medium Risk,Medium
+UAE,11.71,Low Risk,Low
+Nigeria,62.64,Medium Risk,Medium
+Norway,60.63,Medium Risk,Medium
+Saudi Arabia,23.2,Low Risk,Low
+Norway,36.61,Medium Risk,Medium
+Norway,64.9,Medium Risk,Medium
+Brazil,68.57,Medium Risk,Medium
+Norway,60.21,Medium Risk,Medium
+India,58.52,Medium Risk,Medium
+Brazil,69.81,Medium Risk,Medium
+Qatar,47.52,Medium Risk,Medium
+Norway,48.06,Medium Risk,Medium
+India,38.99,Medium Risk,Medium
+Qatar,30.84,Medium Risk,Medium
+Norway,39.2,Medium Risk,Medium
+India,30.29,Medium Risk,Medium
+Russia,76.87,High Risk,High
+Russia,95.79,High Risk,High
+UAE,20.28,Low Risk,Low
+USA,56.76,Medium Risk,Medium
+India,51.57,Medium Risk,Medium
+Canada,53.05,Medium Risk,Medium
+India,61.38,Medium Risk,Medium
+Brazil,37.62,Medium Risk,Medium
+UAE,23.18,Low Risk,Low
+Qatar,46.94,Medium Risk,Medium
+Nigeria,64.55,Medium Risk,Medium
+Russia,90.2,High Risk,High
+UAE,11.21,Low Risk,Low
+Qatar,62.02,Medium Risk,Medium
+UAE,14.97,Low Risk,Low
+India,51.45,Medium Risk,Medium
+Saudi Arabia,18.44,Low Risk,Low
+USA,48.51,Medium Risk,Medium
+UAE,18.86,Low Risk,Low
+Norway,33.92,Medium Risk,Medium
+Norway,63.44,Medium Risk,Medium
+UAE,28.53,Low Risk,Low
+India,36.65,Medium Risk,Medium
+Nigeria,49.25,Medium Risk,Medium
+Brazil,66.1,Medium Risk,Medium
+Saudi Arabia,17.58,Low Risk,Low
+Brazil,40.61,Medium Risk,Medium
+Nigeria,41.41,Medium Risk,Medium
+Norway,56.47,Medium Risk,Medium
+Nigeria,36.19,Medium Risk,Medium
+USA,38.71,Medium Risk,Medium
+Russia,87.38,High Risk,High
+Norway,32.44,Medium Risk,Medium
+Qatar,32.29,Medium Risk,Medium
+Canada,49.07,Medium Risk,Medium
+Norway,36.3,Medium Risk,Medium
+Norway,33.2,Medium Risk,Medium
+Saudi Arabia,11.37,Low Risk,Low
+UAE,23.5,Low Risk,Low
+India,46.15,Medium Risk,Medium
+Canada,39.85,Medium Risk,Medium
+Canada,31.59,Medium Risk,Medium
+UAE,18.38,Low Risk,Low
+Canada,52.61,Medium Risk,Medium
+Qatar,67.39,Medium Risk,Medium
+India,56.79,Medium Risk,Medium
+Qatar,39.55,Medium Risk,Medium
+Brazil,35.24,Medium Risk,Medium
+USA,48.29,Medium Risk,Medium
+UAE,10.19,Low Risk,Low
+Canada,69.94,Medium Risk,Medium
+UAE,11.47,Low Risk,Low
+India,50.24,Medium Risk,Medium
+Saudi Arabia,28.67,Low Risk,Low
+UAE,27.59,Low Risk,Low
+Qatar,41.4,Medium Risk,Medium
+Nigeria,63.35,Medium Risk,Medium
+USA,54.47,Medium Risk,Medium
+Norway,30.31,Medium Risk,Medium
+Norway,41.98,Medium Risk,Medium
+UAE,28.78,Low Risk,Low
+Saudi Arabia,15.29,Low Risk,Low
+UAE,24.85,Low Risk,Low
+Saudi Arabia,15.45,Low Risk,Low
+Canada,38.43,Medium Risk,Medium
+Qatar,38.14,Medium Risk,Medium
+USA,50.22,Medium Risk,Medium
+USA,66.21,Medium Risk,Medium
+Russia,72.77,High Risk,High
+Brazil,63.17,Medium Risk,Medium
+Russia,70.11,High Risk,High
+Saudi Arabia,22.74,Low Risk,Low
+USA,36.46,Medium Risk,Medium
+Nigeria,52.07,Medium Risk,Medium
+Brazil,52.44,Medium Risk,Medium
+UAE,11.5,Low Risk,Low
+Saudi Arabia,20.91,Low Risk,Low
+Qatar,53.3,Medium Risk,Medium
+Saudi Arabia,18.6,Low Risk,Low
+Russia,79.25,High Risk,High
+Russia,96.97,High Risk,High
+India,57.28,Medium Risk,Medium
+UAE,17.07,Low Risk,Low
+Norway,65.37,Medium Risk,Medium
+Brazil,68.95,Medium Risk,Medium
+Saudi Arabia,28.52,Low Risk,Low
+India,64.58,Medium Risk,Medium
+Saudi Arabia,27.63,Low Risk,Low
+Russia,75.38,High Risk,High
+Qatar,61.3,Medium Risk,Medium
+Brazil,62.09,Medium Risk,Medium
+India,40.67,Medium Risk,Medium
+UAE,17.65,Low Risk,Low
+Russia,95.76,High Risk,High
+India,37.98,Medium Risk,Medium
+Nigeria,43.99,Medium Risk,Medium
+India,38.92,Medium Risk,Medium
+India,45.94,Medium Risk,Medium
+USA,64.57,Medium Risk,Medium
+USA,44.05,Medium Risk,Medium
+Norway,45.99,Medium Risk,Medium
+Norway,43.25,Medium Risk,Medium
+Russia,73.46,High Risk,High
+USA,37.14,Medium Risk,Medium
+USA,31.53,Medium Risk,Medium
+Canada,47.38,Medium Risk,Medium
+Qatar,47.46,Medium Risk,Medium
+Norway,34.63,Medium Risk,Medium
+Canada,37.6,Medium Risk,Medium
+Russia,91.26,High Risk,High
+Russia,85.6,High Risk,High
+Norway,57.47,Medium Risk,Medium
+India,44.57,Medium Risk,Medium
+UAE,28.98,Low Risk,Low
+Qatar,54.93,Medium Risk,Medium
+UAE,24.4,Low Risk,Low
+USA,50.28,Medium Risk,Medium
+Brazil,43.05,Medium Risk,Medium
+USA,52.18,Medium Risk,Medium
+India,46.82,Medium Risk,Medium
+Brazil,57.09,Medium Risk,Medium
+Saudi Arabia,22.31,Low Risk,Low
+USA,46.24,Medium Risk,Medium
+Russia,79.12,High Risk,High
+India,47.2,Medium Risk,Medium
+Canada,54.27,Medium Risk,Medium
+Qatar,48.6,Medium Risk,Medium
+Nigeria,57.03,Medium Risk,Medium
+Norway,48.93,Medium Risk,Medium
+Saudi Arabia,23.18,Low Risk,Low
+USA,50.62,Medium Risk,Medium
+Canada,43.41,Medium Risk,Medium
+India,56.91,Medium Risk,Medium
+India,62.26,Medium Risk,Medium
+Saudi Arabia,10.49,Low Risk,Low
+India,69.36,Medium Risk,Medium
+Canada,63.99,Medium Risk,Medium
+UAE,19.11,Low Risk,Low
+Canada,37.78,Medium Risk,Medium
+Brazil,49.78,Medium Risk,Medium
+India,35.9,Medium Risk,Medium
+Russia,96.78,High Risk,High
+UAE,25.57,Low Risk,Low
+India,37.04,Medium Risk,Medium
+Norway,48.58,Medium Risk,Medium
+Norway,39.97,Medium Risk,Medium
+UAE,19.13,Low Risk,Low
+Nigeria,56.7,Medium Risk,Medium
+Norway,53.82,Medium Risk,Medium
+Nigeria,54.51,Medium Risk,Medium
+Norway,47.07,Medium Risk,Medium
+Norway,47.84,Medium Risk,Medium
+Saudi Arabia,24.87,Low Risk,Low
+Nigeria,48.0,Medium Risk,Medium
+India,63.59,Medium Risk,Medium
+USA,60.63,Medium Risk,Medium
+Norway,49.38,Medium Risk,Medium
+India,40.98,Medium Risk,Medium
+UAE,24.27,Low Risk,Low
+India,40.87,Medium Risk,Medium
+Qatar,65.72,Medium Risk,Medium
+UAE,12.77,Low Risk,Low
+India,45.32,Medium Risk,Medium
+Saudi Arabia,24.13,Low Risk,Low
+UAE,18.3,Low Risk,Low
+Qatar,51.7,Medium Risk,Medium
+Brazil,32.49,Medium Risk,Medium
+Brazil,45.58,Medium Risk,Medium
+Canada,67.84,Medium Risk,Medium
+Russia,95.7,High Risk,High
+Canada,45.22,Medium Risk,Medium
+Russia,98.28,High Risk,High
+USA,60.14,Medium Risk,Medium
+Brazil,51.53,Medium Risk,Medium
+Norway,61.99,Medium Risk,Medium
+India,49.53,Medium Risk,Medium
+USA,47.43,Medium Risk,Medium
+Russia,81.67,High Risk,High
+Brazil,58.97,Medium Risk,Medium
+Nigeria,66.78,Medium Risk,Medium
+Canada,51.36,Medium Risk,Medium
+Brazil,53.68,Medium Risk,Medium
+Russia,72.52,High Risk,High
+Brazil,35.43,Medium Risk,Medium
+Nigeria,37.27,Medium Risk,Medium
+USA,45.16,Medium Risk,Medium
+India,48.19,Medium Risk,Medium
+Qatar,60.45,Medium Risk,Medium
+Brazil,41.13,Medium Risk,Medium
+Brazil,40.09,Medium Risk,Medium
+UAE,19.41,Low Risk,Low
+Norway,32.08,Medium Risk,Medium
+Qatar,38.97,Medium Risk,Medium
+UAE,25.62,Low Risk,Low
+Russia,92.63,High Risk,High
+India,37.97,Medium Risk,Medium
+Russia,88.64,High Risk,High
+India,35.05,Medium Risk,Medium
+UAE,21.28,Low Risk,Low
+India,48.6,Medium Risk,Medium
+USA,60.68,Medium Risk,Medium
+Saudi Arabia,22.12,Low Risk,Low
+UAE,25.56,Low Risk,Low
+Saudi Arabia,29.29,Low Risk,Low
+UAE,21.57,Low Risk,Low
+USA,53.03,Medium Risk,Medium
+Brazil,45.87,Medium Risk,Medium

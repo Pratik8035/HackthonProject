@@ -1,0 +1,244 @@
+{
+  "crude_oil_prices.csv": {
+    "rows": 126,
+    "columns": [
+      "date",
+      "india_basket_usd",
+      "brent_usd",
+      "wti_usd",
+      "india_basket_inr",
+      "daily_change_usd",
+      "volatility_30d",
+      "price_pct_change"
+    ],
+    "date_range": [
+      "2015-01-01 00:00:00",
+      "2025-06-01 00:00:00"
+    ]
+  },
+  "exchange_rates.csv": {
+    "rows": 126,
+    "columns": [
+      "date",
+      "usdinr",
+      "eurinr",
+      "sarinr",
+      "aed_inr",
+      "gbpinr"
+    ],
+    "date_range": [
+      "2015-01-01 00:00:00",
+      "2025-06-01 00:00:00"
+    ]
+  },
+  "india_crude_imports.csv": {
+    "rows": 126,
+    "columns": [
+      "date",
+      "iraq_mmt",
+      "saudi_arabia_mmt",
+      "russia_mmt",
+      "uae_mmt",
+      "kuwait_mmt",
+      "nigeria_mmt",
+      "usa_mmt",
+      "iran_mmt",
+      "other_mmt",
+      "total_imports_mmt",
+      "hhi_concentration"
+    ],
+    "date_range": [
+      "2015-01-01 00:00:00",
+      "2025-06-01 00:00:00"
+    ]
+  },
+  "refinery_capacity.csv": {
+    "rows": 126,
+    "columns": [
+      "date",
+      "IOCL_Panipat",
+      "IOCL_Mathura",
+      "IOCL_Gujarat",
+      "IOCL_Barauni",
+      "IOCL_Haldia",
+      "HPCL_Mumbai",
+      "HPCL_Visakhapatnam",
+      "BPCL_Mumbai",
+      "BPCL_Kochi",
+      "RIL_Jamnagar_SEZ",
+      "RIL_Jamnagar_Domestic",
+      "CPCL_Chennai",
+      "MRPL_Mangaluru",
+      "total_capacity_mmt_month",
+      "total_throughput_mmt_month",
+      "avg_utilization_pct"
+    ],
+    "date_range": [
+      "2015-01-01 00:00:00",
+      "2025-06-01 00:00:00"
+    ]
+  },
+  "spr_data.csv": {
+    "rows": 126,
+    "columns": [
+      "date",
+      "vizag_capacity_mmt",
+      "mangaluru_capacity_mmt",
+      "padur_capacity_mmt",
+      "total_spr_capacity_mmt",
+      "vizag_stock_mmt",
+      "mangaluru_stock_mmt",
+      "padur_stock_mmt",
+      "total_spr_stock_mmt",
+      "vizag_fill_pct",
+      "mangaluru_fill_pct",
+      "padur_fill_pct",
+      "overall_fill_pct",
+      "coverage_days",
+      "iea_compliant"
+    ],
+    "date_range": [
+      "2015-01-01 00:00:00",
+      "2025-06-01 00:00:00"
+    ]
+  },
+  "opec_production.csv": {
+    "rows": 126,
+    "columns": [
+      "date",
+      "opec_total_mmbd",
+      "saudi_arabia_mmbd",
+      "iraq_mmbd",
+      "uae_mmbd",
+      "iran_mmbd",
+      "kuwait_mmbd",
+      "venezuela_mmbd",
+      "nigeria_mmbd",
+      "libya_mmbd",
+      "other_opec_mmbd",
+      "opec_quota_compliance_pct"
+    ],
+    "date_range": [
+      "2015-01-01 00:00:00",
+      "2025-06-01 00:00:00"
+    ]
+  },
+  "fuel_demand.csv": {
+    "rows": 126,
+    "columns": [
+      "date",
+      "diesel_mmt",
+      "petrol_mmt",
+      "lpg_mmt",
+      "naphtha_mmt",
+      "atf_mmt",
+      "fuel_oil_mmt",
+      "bitumen_mmt",
+      "lubes_mmt",
+      "others_mmt",
+      "total_consumption_mmt",
+      "yoy_growth_pct"
+    ],
+    "date_range": [
+      "2015-01-01 00:00:00",
+      "2025-06-01 00:00:00"
+    ]
+  },
+  "geopolitical_events.csv": {
+    "rows": 126,
+    "columns": [
+      "date",
+      "event_name",
+      "event_flag",
+      "geopolitical_severity",
+      "hormuz_closure_risk",
+      "redsea_disruption_risk",
+      "war_event",
+      "terrorism_event",
+      "sanctions_event",
+      "geopolitical_risk_index"
+    ],
+    "date_range": [
+      "2015-01-01 00:00:00",
+      "2025-06-01 00:00:00"
+    ]
+  },
+  "shipping_routes.csv": {
+    "rows": 126,
+    "columns": [
+      "date",
+      "hormuz_transit_days",
+      "hormuz_extra_delay_days",
+      "suez_transit_days",
+      "redsea_extra_delay_days",
+      "cape_route_transit_days",
+      "cape_rerouting_pct",
+      "vlcc_freight_rate_usd_day",
+      "aframax_freight_rate_usd_day",
+      "tankers_via_hormuz_monthly",
+      "tankers_via_redsea_monthly",
+      "shipping_cost_premium_usd_bbl",
+      "route_blocked"
+    ],
+    "date_range": [
+      "2015-01-01 00:00:00",
+      "2025-06-01 00:00:00"
+    ]
+  },
+  "economic_indicators.csv": {
+    "rows": 126,
+    "columns": [
+      "date",
+      "gdp_growth_pct",
+      "iip_index",
+      "cpi_inflation_pct",
+      "wpi_inflation_pct",
+      "current_account_balance_bn_usd",
+      "forex_reserves_bn_usd",
+      "manufacturing_pmi",
+      "services_pmi"
+    ],
+    "date_range": [
+      "2015-01-01 00:00:00",
+      "2025-06-01 00:00:00"
+    ]
+  },
+  "sanctions_data.csv": {
+    "rows": 126,
+    "columns": [
+      "date",
+      "iran_sanctions_intensity",
+      "russia_sanctions_intensity",
+      "venezuela_sanctions_intensity",
+      "iran_blocked",
+      "russia_price_cap_active",
+      "india_sanctions_exposure_score",
+      "ofac_designations_new",
+      "trade_restriction_level"
+    ],
+    "date_range": [
+      "2015-01-01 00:00:00",
+      "2025-06-01 00:00:00"
+    ]
+  },
+  "ais_vessel_data.csv": {
+    "rows": 126,
+    "columns": [
+      "date",
+      "tankers_loaded_hormuz",
+      "tankers_mumbai_port",
+      "tankers_vadinar_port",
+      "tankers_paradip_port",
+      "tankers_kandla_port",
+      "vessel_congestion_index",
+      "avg_waiting_time_days",
+      "dark_shipping_incidents",
+      "sanctioned_vessel_sightings",
+      "total_crude_tanker_calls_india"
+    ],
+    "date_range": [
+      "2015-01-01 00:00:00",
+      "2025-06-01 00:00:00"
+    ]
+  }
+}
